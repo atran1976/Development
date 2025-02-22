@@ -1,0 +1,20 @@
+Description:
+- Net Income, also called Net Profit, Net Earnings, or simply "the bottom line," is the total profit a company makes after deducting all expenses from its total revenue. It reflects the company’s overall financial performance, considering both operating and non-operating factors.
+- The bottom line of a company’s income statement. It represents the total profit a company earns after deducting all expenses, including operating costs, interest, taxes, and non-operating items.
+
+Formula:
+Net Income = Total Revenue − (COGS + Operating Expenses + Interest + Taxes)
+
+Key Insights:
+- Indicates whether a company is profitable or losing money.
+- Trends in Net Income reflect business growth or decline.
+
+Limitations:
+- Accounting Manipulations: Susceptible to accounting adjustments, such as depreciation methods and tax strategies.
+- Non-Cash Items: Includes non-cash expenses (e.g., depreciation) that don’t impact cash flow, making EBITDA more useful for cash-focused analysis
+- One-Time Events: Can be distorted by one-time gains or losses, such as asset sales or write-offs.
+- Industry Variations: Profitability levels vary widely by industry, limiting cross-sector comparisons.
+
+Key Takeaway:
+- Net Income represents the final profitability of a company and is a key measure for valuation and dividend decisions.
+- Combine it with metrics like Gross Profit, Operating Income, EBITDA, and Cash Flow for a holistic financial analysis.

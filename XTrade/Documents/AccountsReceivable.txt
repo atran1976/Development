@@ -1,0 +1,21 @@
+Description:
+- Accounts Receivable (AR) represents the money owed to a company by its customers for goods or services sold on credit.
+
+Formula:
+- Accounts Receivable (AR) = Total Credit Sales − Collections Received − Write-Offs
+
+Key Insights:
+- Liquidity Indicator: High AR may signal delayed payments or cash flow risks.
+- Credit Management: Tracks the efficiency of credit sales policies and payment collection.
+- Revenue Predictability: Provides visibility into future cash inflows from credit customers.
+- Risk Monitoring: Rising AR balances without collections could indicate bad debt risks or customer disputes.
+
+Limitations:
+- Bad Debt Risk: Customers may default on payments, requiring write-offs.
+- Liquidity Misrepresentation: High AR may appear as an asset but lacks immediate liquidity.
+- Collection Costs: Managing and collecting AR can involve administrative expenses.
+- Seasonal Variations: AR levels may fluctuate, requiring adjustments for seasonality in analysis.
+
+Key Takeaway:
+- Accounts Receivable is a critical measure of short-term liquidity and credit management efficiency.
+- Use metrics like AR Turnover Ratio and Days Sales Outstanding (DSO or ReceivableTurnover) to assess collection performance. 

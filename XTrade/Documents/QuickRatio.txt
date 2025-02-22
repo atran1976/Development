@@ -1,0 +1,46 @@
+Description:
+- The Quick Ratio measures a company's ability to meet its short-term liabilities using its most liquid assets, excluding inventory. 
+
+Formula:
+- Quick Ratio = (CurrentAssets - Inventory) / Current Liabilities
+
+Interpretation:
+- Quick Ratio = (40 + 50) / 90 = 0.9
+- Company has $0.90 in quick assets for every $1.00 of liabilities.
+
+Key Insights:
+- Quick Ratio > 1 (Healthy): The company can immediately cover its short-term liabilities without relying on inventory sales.
+- Quick Ratio < 1 (Risky): The company might struggle to meet short-term obligations without selling inventory or other assets.
+- Quick Ratio = 1 (Adequate): Indicates balanced liquidity, but limited buffer for unexpected expenses.
+
+- Liquidity Evaluation: A quick ratio > 1.0 suggests the company has sufficient liquid assets to handle short-term liabilities without relying on inventory sales.
+- Inventory-Independent Analysis: Ideal for businesses where inventory turnover is slow (e.g., manufacturing) or highly volatile.
+- Short-Term Cash Flow Management: Companies with low quick ratios may face cash flow challenges and require external financing.
+- Industry-Specific Variations: Some industries (e.g., retail) rely heavily on inventory, making a lower quick ratio more acceptable.
+
+Advantages:
+- Strict Liquidity Test: Focuses on highly liquid assets, providing a realistic measure of short-term solvency.
+- Independent of Inventory Valuation: Avoids issues related to inventory valuation methods (e.g., FIFO vs LIFO).
+- Cash Flow Indicator: Highlights immediate liquidity to address emergencies or unexpected obligations.
+
+Limitations: 
+- Excludes Inventory Value: May underestimate liquidity for businesses with fast-moving inventory (e.g., retail).
+- Ignores Debt Repayments: Doesn’t account for timing or size of upcoming debt repayments.
+- Seasonality Impact: Ratios may fluctuate due to seasonal variations in cash flow and receivables.
+- Industry Variations: Some industries naturally maintain low quick ratios due to reliance on inventory sales.
+
+Key Takeaway:
+- The Quick Ratio evaluates short-term liquidity without relying on inventory, offering a conservative view of a company’s ability to meet obligations.
+- Use it alongside Current Ratio and Cash Ratio for a comprehensive liquidity analysis.
+
+
+Industry			Quick Ratio Range
+Technology & Software		1.0–2.0
+Healthcare & Biotechnology	1.0–1.5
+Consumer Discretionary		0.8–1.2
+Energy				0.6–1.0
+Financial Services		0.9–1.2
+Industrial & Manufacturing	0.8–1.3
+Utilities			0.5–1.0
+Real Estate (REITs)		0.5–1.0
+Consumer Staples		0.8–1.2

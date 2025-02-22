@@ -1,0 +1,112 @@
+Description:
+Total Revenue (Top Line) is the total amount of income a company generates from its core business activities before any expenses are deducted.
+
+Formula:
+Total Revenue = Quantity Sold × Price Per Unit
+Revenue Growth Rate = ((Current Revenue − Previous Revenue) / Previous Revenue) * 100
+​
+Key Insights:
+- Operating Revenue: Revenue from the primary business activities (e.g., product sales, service fees).
+- Non-Operating Revenue: Income from secondary activities like interest income, dividends, or asset sales.
+- Other Revenue Streams: Subscription fees, licensing, royalties, or advertising revenue.
+
+2024 Analysis
+Industry Name				Expected Growth - Next 2 years			Expected Growth - Next 5 years
+Advertising				6.57%						8.91%
+Aerospace/Defense			34.15%						15.93%
+Air Transport				9.37%						30.61%
+Apparel					0.53%						2.36%
+Auto & Truck				715.92%						75.91%
+Auto Parts				10.23%						20.96%
+Bank (Money Center)			7.45%						2.65%
+Banks (Regional)			2.22%						0.97%
+Beverage (Alcoholic)			10.34%						3.62%
+Beverage (Soft)				16.97%						7.71%
+Broadcasting				0.16%						1.00%
+Brokerage & Investment Banking		7.03%						4.41%
+Building Materials			1.67%						6.96%
+Business & Consumer Services		6.67%						8.30%
+Cable TV				-0.83%						0.58%
+Chemical (Basic)			-2.65%						24.95%
+Chemical (Diversified)			-12.17%	
+Chemical (Specialty)			2.10%						9.53%
+Coal & Related Energy			567.46%						39.29%
+Computer Services			2.67%						6.27%
+Computers/Peripherals			7.26%						13.29%
+Construction Supplies			27.92%						7.59%
+Diversified				-0.78%						3.14%
+Drugs (Biotechnology)			87.41%						67.98%
+Drugs (Pharmaceutical)			35.65%						56.65%
+Education				9.14%						11.70%
+Electrical Equipment			158.87%						45.34%
+Electronics (Consumer & Office)		-1.96%						4.95%
+Electronics (General)			24.96%						50.52%
+Engineering/Construction		11.73%						5.98%
+Entertainment				9.51%						9.17%
+Environmental & Waste Services		131.71%						46.48%
+Farming/Agriculture			9.51%						5.35%
+Financial Svcs. (Non-bank & Insurance)	8.83%						8.67%
+Food Processing				5.62%						4.49%
+Food Wholesalers			4.17%						4.87%
+Furn/Home Furnishings			-4.87%						4.60%
+Green & Renewable Energy		21.95%						10.89%
+Healthcare Products			59.09%						27.43%
+Healthcare Support Services		9.39%						11.07%
+Heathcare Information and Technology	14.83%						16.68%
+Homebuilding				-0.10%						5.17%
+Hospitals/Healthcare Facilities		4.13%						4.09%
+Hotel/Gaming				13.10%						11.28%
+Household Products			8.74%						8.61%
+Information Services			5.65%						2.92%
+Insurance (General)			17.65%						9.97%
+Insurance (Life)			3.97%						4.28%
+Insurance (Prop/Cas.)			7.50%						3.63%
+Investments & Asset Management		45.07%						-0.25%
+Machinery				10.30%						9.97%
+Metals & Mining				1.07%						10.05%
+Office Equipment & Services		1.94%						
+Oil/Gas (Integrated)			-8.05%						-7.11%
+Oil/Gas (Production and Exploration)	2.51%						3.21%
+Oil/Gas Distribution			1.35%						3.74%
+Oilfield Svcs/Equip.			17.39%						8.53%
+Packaging & Container			-0.39%						2.45%
+Paper/Forest Products			-6.32%						4.30%
+Power					3.31%						5.00%
+Precious Metals				19.41%						11.81%
+Publishing & Newspapers			0.03%						3.16%
+R.E.I.T.				4.60%						4.94%
+Real Estate (Development)		101.39%	
+Real Estate (General/Diversified)	-14.13%	
+Real Estate (Operations & Services)	-3.11%						7.82%
+Recreation				3.56%						8.77%
+Reinsurance				6.38%	
+Restaurant/Dining			8.92%						8.45%
+Retail (Automotive)			5.97%						8.88%
+Retail (Building Supply)		-3.83%						3.22%
+Retail (Distributors)			6.96%						5.25%
+Retail (General)			1.45%						3.28%
+Retail (Grocery and Food)		4.42%						4.54%
+Retail (REITs)				5.62%						5.81%
+Retail (Special Lines)			0.56%						3.47%
+Rubber& Tires				0.19%	
+Semiconductor				11.61%						12.60%
+Semiconductor Equip			11.17%						7.90%
+Shipbuilding & Marine			-11.57%	
+Shoe					0.22%						6.67%
+Software (Entertainment)		7.07%						9.16%
+Software (Internet)			26.08%						12.02%
+Software (System & Application)		22.00%						14.07%
+Steel					-3.30%						-3.27%
+Telecom (Wireless)			2.72%						2.14%
+Telecom. Equipment			12.82%						3.61%
+Telecom. Services			13.85%						4.80%
+Tobacco					9.94%						2.83%
+Transportation				0.43%						8.10%
+Transportation (Railroads)		10.38%						2.77%
+Trucking				-0.05%						38.61%
+Utility (General)			0.78%						2.79%
+Utility (Water)				6.61%						4.16%
+Total Market				25.13%						23.33%
+Total Market (without financials)	27.57%						28.49%
+
+

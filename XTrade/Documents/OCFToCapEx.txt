@@ -1,0 +1,48 @@
+Description:
+- The OCF/CapEx Ratio measures a company’s ability to finance capital expenditures (CapEx) using its operating cash flow (OCF). 
+- It evaluates whether a company generates sufficient cash from operations to maintain and expand its fixed asset base without relying on external financing (debt or equity).
+- (Also known as the Cash Flow Coverage Ratio or CapEx Coverage Ratio)
+
+Formula:
+- OCF/CapEx Ratio = OCF / CapEx
+
+Interpretation:
+- OCF/CapEx Ratio = 400 / 200 = 2.0
+- The company generates $2.00 in cash flow for every $1.00 spent on CapEx.
+
+Key Insights:
+- High Ratio (> 1.5): (Self-Sufficient Growth): The company generates ample cash flow to fund CapEx without relying on debt or equity financing. Indicates strong cash flow management and growth potential.
+- Moderate Ratio (1.0–1.5): (Sustainable Investment): The company covers CapEx with operating cash flow, but may need external funding for expansion projects. Suitable for stable industries with moderate reinvestment needs.
+- Low Ratio (< 1.0): (Financing Required): The company does not generate enough cash to cover CapEx, suggesting reliance on debt, equity, or asset sales for investments. Common in growth-focused or capital-intensive sectors.
+- Negative Ratio (< 0): (Cash Flow Deficit): Operating cash flow is negative, highlighting cash flow problems or operational inefficiencies.
+
+- Growth Sustainability: High ratios indicate the company can fund expansion internally, reducing reliance on external debt financing.
+- Liquidity Planning: Low ratios may signal cash flow constraints, requiring financing or asset sales to support operations.
+- Debt Dependency Risks: Ratios below 1.0 highlight debt risks if investments cannot be financed through internal cash flow.
+- Capital Intensity Assessment: Asset-heavy industries (e.g., utilities, energy) naturally show lower ratios due to large CapEx needs.
+
+Advantages:
+- Cash-Flow Focused: Evaluates cash availability, offering a realistic assessment compared to earnings-based metrics.
+- Debt-Free Growth Indicator: Highlights whether the company can expand without borrowing, reducing leverage risks.
+- Investment Planning Tool: Tracks whether CapEx is sustainable or requires external financing.
+
+Limitations:
+- Ignores Debt Structure: Doesn’t distinguish between debt-funded CapEx and equity-funded investments. (Combine with leverage ratios.)
+- Industry Variability: Capital-intensive sectors naturally have lower ratios, requiring peer group comparisons. (Not suitable for cross-sector analysis.)
+- Short-Term Focus: Reflects current cash flow, ignoring future growth potential or long-term obligations. (Combine with ROIC.)
+- CapEx Classification Issues: May misclassify maintenance CapEx as growth CapEx, distorting analysis. (Analyze CapEx breakdown if available.)
+
+Key Takeaway:
+- The OCF/CapEx Ratio evaluates whether a company can self-fund capital expenditures using operating cash flow, offering insights into growth sustainability and financial health.
+- Combine it with Free Cash Flow, Debt Ratios, and Profitability Metrics for a comprehensive capital analysis.
+
+Industry			Benchmark Range
+Technology & Software		2.0–3.0x
+Healthcare & Pharmaceuticals	1.5–2.5x
+Consumer Discretionary		1.5–2.5x
+Energy				0.8–1.5x (capital-intensive)
+Financial Services		1.0–2.0x
+Industrial & Manufacturing	1.0–2.0x
+Utilities			0.5–1.5x (asset-heavy)
+Real Estate (REITs)		0.8–1.5x (debt-driven)
+Consumer Staples		1.5–2.5x

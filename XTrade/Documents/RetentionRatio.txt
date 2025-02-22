@@ -1,0 +1,46 @@
+Description:
+- Retention Ratio measures the proportion of a company’s earnings that is retained rather than distributed to shareholders as dividends. 
+- It indicates the percentage of net income that is reinvested in the business or held as reserves.
+- it reflects the portion of profits retained for growth or debt repayment (Higher is better)
+
+Formula:
+- Retention Ratio = 1 − Payout Ratio
+
+Interpretation:
+- Retention Ratio= 1− 0.30 = 0.70or 70%
+- The company retains 70% of its net income for reinvestment or reserves and distributes the remaining 30% as dividends.
+
+Key Insights:
+- High Retention Ratio (>50%): (Growth-Oriented Strategy): Indicates the company prioritizes reinvestment in growth, R&D, or debt reduction over dividend payouts.
+- Low Retention Ratio (<50%): (Income-Oriented Strategy): Suggests the company focuses on returning a significant portion of earnings to shareholders, typical of mature or stable companies.
+
+- Growth Indicator: The retention ratio shows the company’s focus on reinvesting earnings for growth or paying down debt.
+- Dividend Policy Insight: Complements the payout ratio by highlighting how much of the earnings are kept within the company.
+- Company Growth Stage: 
+	High retention ratios are common in growth-stage companies that need to reinvest heavily.
+	Mature companies often have lower retention ratios due to steady cash flows and a focus on dividends.
+- Dividend Policy: The ratio reflects the company’s dividend policy and its approach to shareholder returns versus internal growth.
+- Reinvestment Potential: A higher retention ratio suggests greater internal resources available for expansion, acquisitions, or innovation.
+
+Advantages:
+- Growth Potential Indicator: Highlights the company’s focus on future growth and reinvestment.
+- Dividend Strategy Insight: Complements the payout ratio, offering a complete picture of earnings allocation.
+- Liquidity and Stability: Higher retention ratios can indicate a company’s ability to fund operations and debt obligations internally.
+
+Limitations:
+- Does Not Guarantee Growth: Retained earnings may not always lead to profitable reinvestment or expansion.
+- Industry Variability: Benchmarks vary significantly across industries, limiting the usefulness of cross-sector comparisons.
+- Short-Term Focus: The ratio reflects earnings for a specific period, which may not capture long-term reinvestment strategies.
+
+Key Takeaway:
+- 1 - Payout Ratio (Retention Ratio) highlights the percentage of earnings retained for reinvestment or reserves, making it a key metric for evaluating growth potential and financial strategy.
+- A higher ratio (>50%) suggests a growth-oriented approach, while a lower ratio (<50%) reflects a focus on shareholder returns through dividends.
+- Combine with profitability, reinvestment, and growth metrics for a complete financial analysis.
+
+Industry				Typical Retention Ratio (%)
+Technology & Software			70–90%
+Healthcare				60–80%
+Consumer Goods				40–70%
+Retail					30–60%
+Energy & Utilities			20–50% (Dividend-heavy)
+Manufacturing				50–70%

@@ -1,0 +1,47 @@
+Description:
+- Free Cash Flow (FCF) / Net Income ratio measures how effectively a company converts its accounting profit (Net Income) into actual cash flow available for distribution or reinvestment. 
+- It highlights the quality of earnings and a company’s ability to turn reported profits into real, spendable cash.
+
+Formula:
+- Free Cash Flow / Net Income
+
+Interpretation:
+- Free Cash Flow / Net Income = 150 / 200 = 0.75 or 75%
+- The company converts 75% of its net income into free cash flow.
+- The company covert $0.75 of its net income into $1 of free cash flow.
+
+Key Insights:
+- High Ratio (>1.0): (Strong Earnings Quality): Indicates that the company generates more free cash flow than net income, suggesting strong cash flow management and low non-cash expenses.
+- Moderate Ratio (0.5–1.0): (Reasonable Earnings Quality): Reflects that a significant portion of net income is converted into free cash flow.
+- Low Ratio (<0.5): (Poor Earnings Quality): Suggests that net income is not fully backed by cash flow, possibly due to high non-cash expenses, working capital issues, or aggressive accounting practices.
+
+- Evaluates the quality of earnings by linking net income to actual cash flow.
+- Highlights whether the company’s earnings are backed by sufficient cash generation.
+
+- Earnings Quality Indicator: A high ratio signals that net income is strongly supported by actual cash flow, reflecting high-quality earnings.
+- Non-Cash Components: A low ratio may indicate that a significant portion of net income consists of non-cash accounting items like depreciation or amortization.
+- Industry Dependence: Asset-heavy industries (e.g., utilities, manufacturing) tend to have lower ratios due to high capital expenditure requirements.
+		     Asset-light industries (e.g., tech, software) generally have higher ratios, reflecting lower CapEx needs.
+
+Advantages:
+- Cash Focus: Links profitability to actual cash generation, providing a clearer view of financial health.
+- Earnings Quality Analysis: Highlights whether reported profits are supported by cash flow, reducing reliance on accounting assumptions.
+- Useful for Investors: Provides insights into a company’s ability to generate cash for dividends, debt repayment, or reinvestment.
+
+Limitations:
+- Industry Variability: Benchmarks vary widely across industries, limiting cross-sector comparability.
+- Excludes Revenue Impact: Does not reflect whether revenue growth translates into cash flow or earnings.
+- Short-Term Fluctuations: Working capital changes or one-time expenses may distort the ratio in the short term.
+
+Key Takeaway:
+- Free Cash Flow / Net Income measures the quality of a company’s earnings by evaluating its ability to convert accounting profit into free cash flow.
+- A higher ratio (>1.0) indicates robust earnings quality and cash flow management, while a lower ratio (<0.5) may signal potential cash flow challenges or aggressive accounting practices.
+- Combine this metric with profitability and leverage ratios for a comprehensive assessment of financial health.
+
+Industry				Typical Cash Conversion Ratio
+Technology & Software			0.7–1.5x
+Healthcare				0.6–1.2x
+Consumer Goods				0.5–1.0x
+Retail					0.6–1.2x
+Energy & Utilities			0.4–0.8x (Capital-intensive)
+Manufacturing				0.5–1.0x

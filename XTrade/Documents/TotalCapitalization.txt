@@ -1,0 +1,20 @@
+Description:
+- Total Capitalization is a measure of a company's total funding derived from debt and equity. It reflects the company’s capital structure and indicates how it is financed, whether through borrowed funds (debt) or investors’ equity.
+
+Formula:
+- Total Capitalization = Total Debt + Stockholders’ Equity
+
+Key Insights:
+- Helps assess whether a company relies more on debt or equity for funding.
+- Rising total capitalization may signal expansion, R&D investments, or M&A activities.
+- Stable capitalization ratios reflect consistent financial management and low volatility.
+
+Limitations:
+- Debt Quality Ignored: Doesn’t distinguish between secured and unsecured debt, which impacts risk levels.
+- Market Value Exclusion: Focuses on book values rather than market values, which may differ significantly.
+- Profitability Impact: High debt levels may amplify returns during growth but increase risks during downturns.
+
+Key Takeaway:
+- Total Capitalization provides a complete picture of a company’s funding sources, combining debt and equity.
+- Analyze with ratios like Debt-to-Capitalization and Equity-to-Capitalization for insights into financial structure and risk management.
+

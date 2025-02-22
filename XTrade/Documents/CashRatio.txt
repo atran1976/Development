@@ -1,0 +1,46 @@
+Description:
+- The Cash Ratio is the most conservative liquidity ratio that measures a company’s ability to pay off its short-term liabilities using only its cash and cash equivalents. It excludes all other assets, making it a stringent measure of liquidity.
+
+Formula:
+- Cash Ratio = Cash and Cash Equivalents / Current Liabilities
+
+Example:
+- Cash Ratio = 70/100 = 0.70
+- The company has $0.70 in cash for every $1 of short-term obligation (current liabilities)
+
+Key Insights:
+- Cash Ratio > 1: The company can fully cover its short-term obligations using cash alone.
+- Cash Ratio = 1: The company can cover exact liabilities with available cash, but has no buffer for unexpected expenses.
+- Cash Ratio < 1: The company may need to rely on accounts receivable, inventory, or external financing to pay liabilities.
+
+- Liquidity Stress Test: A cash ratio < 1.0 highlights reliance on non-cash assets or external financing to pay liabilities.
+- Financial Cushion Indicator: Companies with high cash ratios may be too conservative, missing out on growth opportunities.
+- Industry-Specific Trends: Asset-heavy industries (e.g., utilities, manufacturing) naturally have lower cash ratios.
+- Risk Analysis: Low cash ratios may raise default risks in economic downturns.
+
+Advantages:
+- Strict Liquidity Focus: Evaluates only the most liquid assets, providing a worst-case scenario view of solvency.
+- Risk Management Tool: Helps identify cash flow issues and debt repayment risks early.
+- Investor and Creditor Confidence: High cash ratios signal financial stability and may improve creditworthiness.
+
+Limitations:
+- Ignores Receivables and Inventory: Excludes assets that may be quickly converted to cash, underestimating liquidity.
+- Excess Cash Concerns: High ratios may indicate underutilized capital, leading to lower returns.
+- Industry Variability: Certain industries operate effectively with low cash reserves due to reliable cash flows.
+- No Profitability Measure: Focuses solely on liquidity, ignoring operational performance and profitability.
+
+Key Takeaway:
+- The Cash Ratio is a strict measure of liquidity, focusing only on cash and equivalents to test whether a company can meet short-term obligations without selling inventory or relying on receivables.
+- Combine it with metrics like Current Ratio and Quick Ratio for a comprehensive liquidity analysis.
+
+
+Industry				Cash Ratio Range
+Technology & Software			0.5–1.5
+Healthcare & Biotechnology		0.4–1.0
+Consumer Discretionary			0.3–0.8
+Energy					0.1–0.5
+Financial Services			0.8–1.5
+Industrial & Manufacturing		0.2–0.7
+Utilities				0.1–0.4
+Real Estate (REITs)			0.2–0.5
+Consumer Staples			0.3–0.8

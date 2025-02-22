@@ -1,0 +1,51 @@
+Description:
+- Days Sales Outstanding (DSO), which measures the average number of days it takes a company to collect payments after a sale on credit.
+- (Also known as the Accounts Receivable Turnover Ratio or Debtor Turnover Ratio)
+
+Formula:
+- Receivables Turnover (DSO) = (((Beginning Receivables + Ending Receivables) / 2 ) / Revenue) * 365
+
+Interpretation:
+- Receivables Turnover (DSO) = (110/ 1000) * 365 = 40.15 days
+- It takes the company approximately 40 days to collect payments after a credit sale.
+
+Key Insights:
+- Low DSO (< 30 days): (Efficient Collection)
+	Reflects strong credit management and quick cash collection, improving liquidity.
+	Suitable for retail and consumer staples with short payment cycles.
+- Moderate DSO (30–60 days): (Balanced Efficiency)
+	Indicates average payment cycles, typical for manufacturing and wholesale sectors.
+	May reflect industry norms or credit terms.
+- High DSO (> 60 days): (Poor Collection or Credit Policy)
+	Suggests delays in cash collection, raising concerns about liquidity risks and bad debts.
+	May signal weak enforcement of credit terms or economic downturns.
+
+- Liquidity and Cash Flow Monitoring: High DSO values indicate cash flow constraints and potential liquidity risks. (Combine with quick ratio.)
+- Credit Policy Effectiveness: Low DSO highlights efficient collection processes, but excessively low values may suggest overly strict credit terms, reducing sales growth opportunities.
+- Growth vs Stability Analysis: Companies in growth phases may show higher DSO due to new clients and credit extensions, while mature companies should aim for lower DSO to maintain cash flow stability.
+- Industry Sensitivity: Capital-intensive industries and subscription-based services naturally have higher DSOs—requires peer group comparisons for meaningful insights.
+
+Advantages:
+- Liquidity Testing Tool: Tracks the speed of cash inflow, offering insights into credit efficiency and collection policies.
+- Benchmark Comparability: Allows for industry-specific comparisons, particularly in credit-heavy sectors.
+- Early Warning System: High DSO can signal credit risks or cash flow stress, enabling proactive adjustments.
+
+Limitations:
+- Ignores Cash Sales: Focuses only on credit sales, excluding cash transactions, which may distort data for cash-driven businesses. (Use broader liquidity metrics.)
+- Seasonal Variations: DSO may fluctuate due to seasonal sales patterns, requiring adjusted analysis for consistency. (Normalize trends.)
+- No Profitability Insight: Doesn’t address profit margins or whether collections contribute to sustainable growth. (Combine with ROA and ROE.)
+- Credit Terms Dependency: Long payment terms may artificially increase DSO, even if payments are collected on time. (Pair with turnover ratios.)
+
+Key Takeaway:
+- Days Sales Outstanding (DSO) evaluates how quickly a company collects cash after making credit sales, providing insights into liquidity management, credit policy effectiveness, and cash flow risks.
+- Combine it with receivables turnover, liquidity ratios, and cash flow metrics for a comprehensive performance assessment.
+
+Industry			Benchmark DSO (days)
+Retail (General Goods)		15–30 days
+Technology & Software		30–60 days
+Healthcare			45–70 days
+Manufacturing			35–55 days
+Utilities			40–60 days
+Financial Services		30–50 days
+Real Estate (REITs)		60–90 days
+Consumer Staples		20–40 days

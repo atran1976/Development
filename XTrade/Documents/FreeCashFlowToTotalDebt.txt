@@ -1,0 +1,50 @@
+Description:
+- Free Cash Flow (FCF) / Total Debt ratio measures how much of a company’s total debt could be repaid using its free cash flow in a given period. 
+- It assesses the company’s leverage and ability to cover its debt obligations through cash generated from its operations after capital expenditures.
+
+Formula:
+- FreeCashFlow / TotalDebt
+
+Interpretation:
+- FreeCashFlow / TotalDebt = 500 / 1000 = 0.50 or 50%
+- The company can repay 50% of its total debt using one year of free cash flow.
+
+Key Insights:
+- High Ratio (>50%): (Strong Debt Servicing Ability): Indicates the company generates sufficient free cash flow to cover a significant portion of its debt, reducing financial risk.
+- Moderate Ratio (20–50%): (Manageable Leverage): Reflects an acceptable level of debt relative to cash flow but may require monitoring.
+- Low Ratio (<20%): (Weak Debt Coverage): Suggests that the company may struggle to service its debt, increasing reliance on refinancing or external funding.
+
+- Debt Sustainability: Evaluates whether the company generates enough free cash flow to service or repay its total debt.
+- Financial Risk Assessment: Highlights the company’s leverage and its reliance on operational cash flow to maintain solvency.
+
+- Debt Coverage Capacity: 
+	A higher ratio indicates a stronger ability to service debt, often associated with lower financial risk.
+	A lower ratio may signal potential liquidity challenges or excessive reliance on external financing.
+- Leverage and Cash Flow Dependence:
+	Companies with low ratios may need to rely on equity issuance, asset sales, or refinancing to cover debt obligations.
+- Industry Sensitivity:
+	Asset-heavy industries (e.g., energy, utilities) typically have lower ratios due to higher debt loads and capital requirements.
+	Asset-light industries (e.g., software) generally exhibit higher ratios, reflecting stronger cash flow relative to debt.
+
+Advantages:
+- Focus on Cash Flow: Emphasizes the company’s operational ability to manage debt, independent of accounting profits.
+- Debt Risk Analysis: Highlights whether the company’s debt level is sustainable based on its cash-generating ability.
+- Cross-Industry Comparisons: Useful for comparing companies with similar capital structures within the same industry.
+
+Limitations:
+- Short-Term Perspective: The ratio reflects free cash flow and debt at a specific point in time, which may not capture long-term trends or fluctuations.
+- Excludes Other Liquidity Sources: Does not account for cash reserves, liquid assets, or other financing options that could support debt repayment.
+- Industry Variations: Ratios vary significantly by industry, making cross-sector comparisons less meaningful.
+
+Key Takeaway:
+- Free Cash Flow / Total Debt is a valuable metric for assessing a company’s leverage and ability to repay debt using its cash-generating capacity.
+- A higher ratio (>50%) indicates strong debt coverage and lower financial risk, while a lower ratio (<20%) signals potential challenges in managing debt obligations.
+- Combine this ratio with other profitability, leverage, and liquidity metrics for a comprehensive financial analysis.
+
+Industry				Typical FCF-to-Debt Ratio (%)
+Technology & Software			>50%
+Healthcare				30–50%
+Consumer Goods				25–40%
+Retail					20–40%
+Energy & Utilities			10–25% (Capital-intensive)
+Manufacturing				20–40%

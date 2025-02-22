@@ -1,0 +1,2 @@
+Receivable,Inventory,NetPPE
+0.10,0.22,0.10

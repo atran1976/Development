@@ -1,0 +1,69 @@
+Description:
+- It measures the profitability of a company's core business activities. 
+- It provides insights into the efficiency of production processes, pricing power, and overall profitability before considering other operating expenses.
+
+Formula:
+- Gross Profit Margin = (GrossProfit / TotalRevenue) 
+
+Interpretation:
+- Gross Profit Margin = (200 / 500) = 0.40 or 40%
+- The company retains 40 cents for every $1 of revenue after covering direct costs.
+
+Key Insights:
+- High Gross Profit Margin (> Industry Average):
+	Indicates efficient production and pricing power.
+	Reflects cost control and the ability to command premium prices.
+- Low Gross Profit Margin (< Industry Average):
+	Suggests higher production costs or pricing pressure.
+	May indicate inefficiencies or competitive weaknesses.
+
+Limitations:
+- Excludes Operating Costs: Doesn’t account for operating expenses, such as salaries, rent, or marketing costs.
+- Industry Dependence: Varies significantly by industry, so cross-sector comparisons may be misleading.
+- Inventory Impact: Inventory valuation methods (e.g., FIFO vs. LIFO) can distort COGS and affect margins.
+- Short-Term Focus: May overlook long-term trends and focus only on current profitability.
+
+Key Takeaway:
+- Gross Profit Margin is ideal for evaluating production efficiency and cost control.
+- Combine it with Operating Margin, Net Profit Margin, and EBITDA for a complete profitability analysis.
+
+Industry			Typical Gross Profit Margin (%)
+Technology & Software		60–80%
+Healthcare & Biotechnology	50–70%
+Consumer Discretionary		30–50%
+Energy				20–40%
+Financial Services		50–70%
+Industrial & Manufacturing	25–45%
+Utilities			30–50%
+Real Estate (REITs)		60–80%
+Consumer Staples		35–50%
+
+Industry			Average Gross Profit Margin
+Advertising Agencies		47.1%
+Aerospace & Defense		27.3%
+Apparel Manufacturing		48.7%
+Auto Manufacturers		14.1%
+Banks - Regional		99.8%
+Beverages - Non-Alcoholic	48.2%
+Biotechnology			86.5%
+Building Materials		29.2%
+Computer Hardware		38.9%
+Consulting Services		43.6%
+Drug Manufacturers - General	71.9%
+Education & Training Services	55.7%
+Electrical Equipment & Parts	30%
+Food Distribution		14.5%
+Healthcare Plans		20.6%
+Household & Personal Products	57.4%
+Insurance Brokers		90.2%
+Internet Retail			47.4%
+Medical Devices			62.5%
+Oil & Gas Integrated		29.6%
+Real Estate - Diversified	32.7%
+Restaurants			37.1%
+Retail (Specialty)		40.3%
+Semiconductors			45.6%
+Software - Application		64.5%
+Telecom Services		59.9%
+Utilities - Regulated Electric	42.8%
+

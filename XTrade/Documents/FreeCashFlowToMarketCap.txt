@@ -1,0 +1,47 @@
+Description:
+- Free Cash Flow (FCF) / Market Cap ratio measures a company’s ability to generate free cash flow relative to its market value. 
+- It represents the return investors receive in the form of free cash flow for every dollar invested in the company's equity.
+
+Formula:
+- Free Cash Flow / Market Cap
+
+Interpretation:
+- Free Cash Flow / Market Cap = 200 / 2000 = 0.10 or 10%
+- The company generates $0.10 in free cash flow for every $1 of market value.
+
+Key Insights:
+- High Yield (>5%): (Attractive Valuation)
+	Indicates the company generates substantial free cash flow relative to its market value.
+	May signal undervaluation or strong cash-generating ability.
+- Moderate Yield (3–5%): (Fair Valuation): Reflects a reasonable balance between market value and cash flow generation.
+- Low Yield (<3%): (Expensive Valuation): Suggests the company’s market value is high relative to its cash flow, often seen in high-growth companies with reinvestment priorities.
+
+- Valuation Metric: Indicates the proportion of the company's market value supported by its free cash flow.
+- Investor Yield: Helps investors assess the cash return on their equity investment.
+
+- Cash Return to Investors: A higher yield indicates better cash flow returns relative to market value, attractive to value-oriented investors.
+- Growth vs. Value Companies: Growth-oriented companies often reinvest cash flow, resulting in lower yields. Mature, stable companies typically have higher yields, reflecting stronger free cash flow relative to market value.
+- Liquidity Assessment: Companies with consistently high yields are likely to have strong liquidity and the ability to fund growth, dividends, or debt repayment.
+
+Advantages:
+- Focus on Cash Flow: Highlights cash-generating ability, which is critical for sustainability and shareholder returns.
+- Investor-Centric Metric: Directly relates free cash flow to market value, making it intuitive for investors.
+- Comparable Across Industries: Useful for comparing companies with similar capital structures and market caps.
+
+Limitations:
+- Excludes Growth Potential: A high yield may not account for future growth prospects, potentially undervaluing growth-focused companies.
+- Industry Sensitivity: Benchmarks vary significantly across industries, limiting cross-sector comparisons.
+- Market Volatility: Fluctuations in stock price and market cap can distort the ratio over short periods.
+
+Key Takeaway:
+- Free Cash Flow / Market Cap provides a snapshot of a company’s ability to generate cash flow relative to its market value.
+- A higher yield (>5%) indicates strong cash flow returns, while a lower yield (<3%) may reflect reinvestment priorities or overvaluation.
+- Combine this metric with profitability, growth, and leverage ratios for a comprehensive valuation analysis.
+
+Industry			Typical Free Cash Flow Yield (%)
+Technology & Software		1–3% (Growth focus)
+Healthcare			2–4%
+Consumer Goods			3–6%
+Retail				4–7%
+Energy & Utilities		5–10% (Capital-intensive)
+Manufacturing			3–7%

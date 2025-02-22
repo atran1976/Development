@@ -1,0 +1,46 @@
+Description:
+- It measures the amount of cash available per outstanding share of a company's stock.
+
+Formula:
+- Cash Per Share = Total Cash and Cash Equivalents / Total Number of Outstanding Shares
+
+​Interpretation:
+- CPS = 1,000 / 100 = 10
+- The company has $10 cash per share available.
+
+Key Insights:
+- Liquidity Indicator: A high cash per share suggests strong liquidity and financial stability.
+- Debt Coverage: Companies with high cash per share can repay debt quickly without requiring additional financing.
+- Risk Assessment: Investors may view low cash per share as a risk, especially in downturns.
+- Shareholder Security: High cash per share may act as a buffer against economic uncertainties.
+
+- Higher Cash Per Share: 
+	Signals strong liquidity and financial stability.
+	May indicate the ability to repay debt, fund expansion, or distribute dividends.
+- Lower Cash Per Share:
+	Suggests tight cash reserves, possibly limiting financial flexibility.
+	Could indicate aggressive reinvestment into growth rather than holding cash.
+
+
+
+Limitations:
+- No Profitability Insight: High cash reserves do not guarantee profitability or growth potential.
+- Capital Utilization: Excess cash may indicate inefficient use of capital, especially if it’s not reinvested into growth opportunities.
+- Industry Variations: Industries like tech and financial services tend to maintain higher cash reserves, while utilities and real estate typically have lower reserves due to fixed asset investments.
+- Temporary Cash Levels: Cash balances may fluctuate significantly, especially after fundraising events or asset sales.
+
+Key Takeaway:
+- Cash Per Share is a liquidity-focused metric ideal for evaluating a company’s financial stability.
+- It’s most useful when combined with other metrics like P/B ratio, P/E ratio, and debt-to-equity ratio for a complete valuation analysis.
+
+
+Industry			Benchmark Cash Per Share
+Technology & Software		$5 – $20
+Healthcare & Biotechnology	$3 – $15
+Consumer Discretionary		$2 – $10
+Energy				$1 – $8
+Financial Services		$5 – $25
+Industrial & Manufacturing	$2 – $12
+Utilities			$1 – $5
+Real Estate (REITs)		$1 – $6
+Consumer Staples		$3 – $12

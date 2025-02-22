@@ -1,0 +1,46 @@
+Description:
+- Operating Cash Flow / Net Debt ratio measures a company’s ability to repay its net debt using its operating cash flow. 
+- It reflects the company’s liquidity, financial health, and capacity to manage its debt obligations with internally generated cash.
+
+Formula:
+- Operating Cash Flow / Net Debt
+
+Interpretation:
+- Operating Cash Flow / Net Debt = 300 / 550 = 0.54 or 54%
+- The company can repay 54.5% of its net debt using one year of operating cash flow.
+- The company has $0.54 of net debt for every $1 of operating cash flow.
+
+Key Insights:
+- High Ratio (>50%): (Healthy Liquidity): Indicates strong debt repayment capacity. The company can manage its debt comfortably from internally generated cash flows.
+- Moderate Ratio (20–50%): (Manageable Liquidity): Reflects adequate ability to manage debt but may require close monitoring.
+- Low Ratio (<20%): (Weak Liquidity): Suggests the company may struggle to cover its debt from operations, increasing dependence on external funding or refinancing.
+
+- Evaluates whether the company generates sufficient cash flow from operations to cover its debt.
+- Indicates the company’s financial resilience and its ability to repay debt without relying on external funding.
+
+- Debt Servicing Ability: A higher ratio indicates the company generates sufficient cash flow to cover its debt, reducing financial risk.
+- Financial Stability: A low ratio may signal potential liquidity issues, especially during economic downturns or earnings declines.
+- Industry Sensitivity: Asset-heavy industries (e.g., energy, utilities) typically have lower ratios due to significant long-term debt. 
+		      Asset-light industries (e.g., tech) generally have higher ratios, reflecting lower leverage and stronger cash flows.
+
+Advantages:
+- Liquidity Assessment: Directly links operating performance to debt repayment capacity.
+- Debt Risk Indicator: Highlights the company’s ability to service debt from its core operations without relying on external funding.
+- Ease of Calculation: Requires readily available data from the cash flow statement and balance sheet.
+
+Limitations:
+- Short-Term View: Focuses on current operating cash flow and net debt, without considering long-term debt maturities or growth needs.
+- Excludes Non-Operating Cash Flows: Ignores other cash flows (e.g., investing or financing activities) that may affect the company’s debt management strategy.
+- Industry Variability: Ratios vary significantly between industries, making cross-industry comparisons less meaningful.
+
+Key Takeaway:
+- Operating Cash Flow / Net Debt measures the company’s ability to cover its debt obligations using internally generated cash.
+- A higher ratio (>50%) indicates strong financial health and debt repayment capacity, while a lower ratio (<20%) signals potential liquidity concerns.
+- Combine with profitability, leverage, and interest coverage metrics for a comprehensive analysis of financial health.
+
+Industry				Typical Cash Flow-to-Net Debt Ratio
+Technology & Software			>50%
+Healthcare				30–50%
+Retail					20–50%
+Energy & Utilities			10–30% (Capital-intensive)
+Manufacturing				20–40%

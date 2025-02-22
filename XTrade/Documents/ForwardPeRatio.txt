@@ -1,0 +1,115 @@
+Description:
+- The Forward Price-to-Earnings (Forward P/E) Ratio is a valuation metric that measures a company's current share price relative to its expected earnings per share (EPS) over the next 12 months or next fiscal year.
+
+Formula:
+- Fwd P/E Ratio=  Current Share Price / Expected Earnings Per Share (EPS)
+
+Example:
+- Fwd P/E = (100 / 8) = 12.5
+​- Investors are willing to pay $12.50 for every $1 of future earnings.
+
+Interpretation:
+- High Forward P/E (>20): Indicates growth expectations or possibly overvaluation (Warrent Buffet suggest not go over 40)
+- Low Forward P/E (<15): Suggests value opportunities or low growth expectations.
+- Growth Expectation Indicator: A lower forward P/E than the trailing P/E suggests earnings growth, while a higher forward P/E could imply declining earnings.
+- Valuation Analysis: Companies with high forward P/E ratios are often growth stocks with high expectations, while low forward P/E ratios may indicate value stocks or low growth prospects.
+- Sensitivity to Estimates:Forward P/E depends on analyst predictions, which may be inaccurate if assumptions change.
+- Risk Assessment: Compare forward P/E with PEG ratio to factor in growth rates and better evaluate valuation fairness.
+
+Limitations:
+- Estimate Dependency: Based on future projections, which are subject to error or bias.
+- Earnings Revisions: Analyst forecasts often change as market conditions and company performance evolve.
+- Growth Assumptions: Doesn’t account for growth sustainability or macroeconomic risks.
+- Industry Sensitivity: Forward P/E varies widely between industries, making cross-industry comparisons unreliable.
+
+Key Takeaway:
+- Use forward P/E along with trailing P/E, PEG ratio, and ROE to evaluate valuation fairness and growth expectations.
+- Analyze how forward P/E aligns with company growth strategies and market trends.
+
+2024 Analysis
+Industry			Forward P/E Ratio
+Advertising			39.12
+Aerospace/Defense		34.22
+Air Transport			12.33
+Apparel				15.63
+Auto & Truck			19.92
+Auto Parts			35.95
+Banks (Money Center)		10.63
+Banks (Regional)		15.85
+Beverage (Alcoholic)		20.19
+Beverage (Soft)			28.21
+Broadcasting			9.93
+Brokerage & Investment Banking	32.03
+Building Materials		18.90
+Business & Consumer Services	26.44
+Cable TV			11.98
+Chemical (Basic)		16.74
+Chemical (Diversified)		20.63
+Chemical (Specialty)		18.72
+Coal & Related Energy		29.02
+Computer Services		22.54
+Computers/Peripherals		24.15
+Construction Supplies		41.91
+Diversified			27.08
+Drugs (Biotechnology)		73.20
+Drugs (Pharmaceutical)		23.22
+Education			98.12
+Electrical Equipment		23.53
+Electronics (Consumer & Office)	32.07
+Electronics (General)		26.79
+Engineering/Construction	23.61
+Entertainment			37.93
+Environmental & Waste Services	36.56
+Farming/Agriculture		22.95
+Financial Services		19.76
+Food Processing			22.14
+Food Wholesalers		21.63
+Furn/Home Furnishings		16.88
+Green & Renewable Energy	28.74
+Healthcare Products		25.63
+Healthcare Support Services	22.47
+Heavy Construction		15.92
+Homebuilding			10.83
+Hotels & Gaming			26.81
+Household Products		28.19
+Information Services		31.45
+Insurance (General)		12.66
+Insurance (Life)		15.44
+Insurance (Property & Casualty)	14.02
+Investments & Asset Management	13.65
+Machinery			26.45
+Managed Healthcare		18.45
+Manufacturing (Diversified)	20.53
+Media				13.42
+Medical Equipment & Supplies	38.88
+Metals & Mining			17.50
+Oil & Gas (Integrated)		15.92
+Oil & Gas (Production and Exploration)	11.22
+Oil & Gas (Services)		15.57
+Oil & Gas (Drilling)		14.08
+Packaging & Containers		20.77
+Paper & Forest Products		17.10
+Pharmaceuticals			25.40
+Precious Metals			21.05
+Real Estate (Development)	10.54
+Real Estate (General/Diversified)	27.35
+Real Estate Investment Trusts (REITs)	27.35
+Restaurants			22.61
+Retail (Apparel)		17.86
+Retail (Automotive)		16.17
+Retail (Building Supply)	26.58
+Retail (Distributors)		19.04
+Retail (General)		18.18
+Schools				22.10
+Security Systems & Services	21.97
+Semiconductors			33.83
+Software (Entertainment)	34.57
+Software (Internet)		32.43
+Software (System & Application)	44.83
+Telecommunications		19.45
+Transportation			26.28
+Utilities (General)		18.17
+Utilities (Electric)		19.50
+Utilities (Gas)			19.09
+Utilities (Water)		21.06
+Waste Management		35.41

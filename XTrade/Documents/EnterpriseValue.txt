@@ -1,0 +1,28 @@
+Definition:
+- Enterprise Value (EV) is a comprehensive valuation metric used to measure a company's total value, including its capital structure (equity and debt) and liquidity (cash).
+- It represents the theoretical takeover price if a company were to be acquired.
+
+Formula:
+- Enterprise Value = (Share Price * Share Issued) + Total Debt − Cash&Cash Equivalents
+
+Key Insights:
+- Accounts for debt and cash, making it a better measure of a company's true value.
+
+- Debt Impact: High debt increases EV, making it useful for analyzing leveraged companies.
+- Cash Balances: High cash levels reduce EV, reflecting a lower net acquisition cost.
+- Industry Comparison: EV is effective for comparing companies in capital-intensive sectors like energy and utilities.
+- Acquisition Analysis: EV is often used in M&A to estimate the total acquisition cost of a business.
+
+- Better than Market Cap: Market Cap only measures equity value, while EV considers debt and cash, providing a full picture of a company’s worth.
+- Capital Structure-Neutral: Useful for comparing companies with different debt levels, especially in capital-intensive industries.
+- Acquisition Valuation: EV reflects the actual cost to acquire a company, including debt repayment.
+
+Limitations:
+- Debt vs. Equity Impact: EV doesn’t distinguish between debt-heavy and equity-heavy companies, which may affect risk.
+- Cash Utilization Ignored: High cash balances may indicate inefficient capital deployment, not always accounted for.
+- Industry Sensitivity: Companies with low debt and high cash reserves may appear undervalued based on EV metrics.
+- EBITDA Dependence: Metrics like EV/EBITDA may overstate profitability for companies with high depreciation or capital requirements.
+
+Key Takeaway:
+- Enterprise Value is better than Market Cap for evaluating a company’s total worth.
+- Combine EV/EBITDA, EV/Sales, and P/E ratios to assess valuation, growth prospects, and financial health.

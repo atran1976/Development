@@ -1,0 +1,46 @@
+Description:
+- It measures a company's ability to cover its current liabilities (short-term obligations) using cash generated from operations.
+
+Formula:
+- Operating Cash Flow to Current Liabilities Ratio = (Operating Cash Flow / Current Liabilities)
+
+Interpretation:
+- Operating Cash Flow to Current Liabilities Ratio = (200 / 150) = 1.33 or 133%
+​- The company has $1.33 of OCF for every $1 of Current Liability.
+- The comanpy can cover 133% of its current liabilities using cash flow from operations, indicating strong liquidity.
+ 
+Key Insights:
+- Ratio > 1.0: (Healthy Liquidity): The company generates sufficient cash flow to cover current liabilities, indicating financial stability.
+- Ratio < 1.0: (Liquidity Concerns): The company may need external financing or rely on asset sales to cover obligations, raising liquidity risks.
+- Higher Ratios (> 2.0): (Excellent Liquidity): Suggests strong cash generation and ample liquidity for growth investments or debt reduction.
+
+- Liquidity and Cash Flow Management: High ratios suggest efficient cash flow management and a strong ability to meet short-term liabilities.
+- Operational Strength: Evaluates whether cash flow from core operations can sustain debt repayments, without external funding.
+- Debt Risk Monitoring: Low ratios indicate financial stress and may require debt refinancing or asset sales.
+- Growth Planning: Positive cash flow after covering liabilities provides room for expansion and capital investments.
+
+Advantages:
+- Cash Flow Focus: Unlike other ratios, it focuses on actual cash generation, not accounting profits.
+- Debt Management Insight: Helps assess short-term solvency without relying on inventory sales or credit extensions.
+- Liquidity Stress Test: Acts as a conservative measure for companies with volatile revenues.
+
+Limitations:
+- Volatility of Cash Flows: Cash flow from operations can fluctuate, leading to inconsistent results over time.
+- Excludes Long-Term Obligations: Focuses only on current liabilities, ignoring long-term debt repayment risks.
+- Industry Dependence: Capital-intensive industries naturally have lower ratios, making comparisons with service-based industries unreliable.
+- Cash Timing Mismatches: Doesn’t account for timing mismatches between cash inflows and outflows.
+
+Key Takeaway:
+- Operating Cash Flow to Current Liabilities Ratio evaluates whether a company can meet short-term obligations using cash generated from operations, without relying on external financing.
+- Use it alongside Current Ratio, Quick Ratio, and Debt Ratios for a comprehensive liquidity and solvency analysis.
+
+Industry			Benchmark Range
+Technology & Software		1.2–2.0
+Healthcare & Biotechnology	1.0–1.8
+Consumer Discretionary		0.8–1.5
+Energy				0.6–1.2
+Financial Services		0.8–1.3
+Industrial & Manufacturing	1.0–1.8
+Utilities			0.5–1.0
+Real Estate (REITs)		0.3–0.8
+Consumer Staples		1.0–1.6

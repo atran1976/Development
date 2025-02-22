@@ -1,0 +1,46 @@
+Description:
+- The Interest Coverage Ratio measures a company’s ability to pay interest expenses on its outstanding debt using its earnings before interest and taxes (EBIT).
+
+Formula:
+- Interest Coverage Ratio = Ebit / InterestExpense
+
+Interpretation:
+- Interest Coverage Ratio = 200 / 4 = 5.0
+- The company can cover its interest payments 5 times using its earning
+
+Key Insights:
+- High Ratio (> 3.0): (Strong Solvency): The company generates ample earnings to cover its interest payments, signaling low risk and financial flexibility.
+- Moderate Ratio (1.5–3.0): (Manageable Risk): Earnings can cover interest obligations, but the company may face pressure during economic downturns or cash flow disruptions.
+- Low Ratio (< 1.5): (High Risk): Earnings are insufficient to cover interest payments, indicating financial stress and potential liquidity issues.
+- Negative Ratio (< 0): (Operating Losses): Occurs if EBIT is negative, meaning the company is losing money and cannot service its debt without additional financing.
+
+- Debt Servicing Ability: High ratios indicate strong ability to cover interest payments, reducing default risk.
+- Operational Efficiency Check: Low ratios may highlight profitability issues or excessive debt burdens.
+- Risk Sensitivity Assessment: Companies with low ratios are vulnerable to interest rate hikes or profit declines.
+- Capital Structure Balance: High coverage suggests room for growth, while low coverage may require debt restructuring.
+
+Advantages:
+- Debt Sustainability Focus: Evaluates whether a company generates enough earnings to service debt comfortably.
+- Investor and Creditor Confidence: High ratios enhance creditworthiness, reducing borrowing costs and investor risk perception.
+- Liquidity Analysis Tool: Helps identify potential cash flow issues and the need for debt management strategies.
+
+Limitations:
+- Excludes Principal Repayments: Focuses only on interest payments, ignoring loan principal repayments that impact cash flow. (Combine with debt-to-EBITDA for full analysis.)
+- EBIT Focus May Overstate Earnings: EBIT excludes taxes and non-operating expenses, which can affect actual cash flow available for payments. (Cash Coverage Ratio addresses this.)
+- Industry Variability: Capital-intensive sectors operate with lower ratios, while service-based industries often have higher ratios.
+- No Growth or Profitability Context: Doesn’t assess whether earnings are sustainable or growing, requiring supplementary analysis with profitability metrics like ROE.
+
+Key Takeaway:
+- The Interest Coverage Ratio evaluates whether a company’s earnings can cover interest payments, offering insights into debt sustainability and solvency risk.
+- Use it with Net Debt-to-EBITDA, Debt-to-Equity, and Cash Coverage Ratios for a comprehensive leverage and liquidity analysis.
+
+Industry			Benchmark Range (x)
+Technology & Software		6.0–12.0x
+Healthcare & Biotechnology	4.0–8.0x
+Consumer Discretionary		3.0–6.0x
+Energy				2.0–4.0x (capital-intensive)
+Financial Services		1.5–3.0x (high leverage)
+Industrial & Manufacturing	3.0–6.0x
+Utilities			2.0–4.0x (high debt levels)
+Real Estate (REITs)		1.5–3.0x (debt-driven)
+Consumer Staples		4.0–8.0x

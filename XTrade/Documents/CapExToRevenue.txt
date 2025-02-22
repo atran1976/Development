@@ -1,0 +1,57 @@
+Description:
+- Capital Expenditure (CapEx) / Total Revenue ratio measures the proportion of a company’s revenue that is being reinvested into its capital expenditures. 
+- It reflects the company’s investment in maintaining or expanding its operational capacity relative to its revenue generation.
+
+Formula:
+-  CapEx / Total Revenue
+
+Interpretation:
+- CapEx / Total Revenue = 100 / 1000 = 0.10 or 10%
+- The company is reinvesting 10% of its total revenue back into capital expenditures.
+
+Key Insights:
+- High Ratio (>10%): (Growth-Focused)
+	Indicates significant investment in infrastructure, equipment, or expansion.
+	Common in capital-intensive industries like utilities, energy, or manufacturing.
+- Moderate Ratio (5–10%): (Balanced Approach)
+	Reflects a mix of maintaining current assets and moderate growth investment.
+- Low Ratio (<5%): (Asset-Light or Mature Business)
+
+- Suggests low reinvestment needs, often seen in asset-light industries like technology or services.
+- Could also indicate underinvestment if the ratio is consistently low for capital-intensive businesses.
+
+- Evaluates the company’s reinvestment rate into its operations and infrastructure.
+- Highlights the company’s growth and maintenance strategy relative to its revenue base.
+
+- Reinvestment Strategy: 
+	A higher ratio indicates a focus on growth or maintaining a competitive edge through asset improvements or capacity expansion.
+	A lower ratio may reflect an efficient asset base or potential underinvestment in infrastructure.
+- Industry Dependence: 
+	Capital-intensive industries (e.g., energy, utilities) naturally have higher ratios due to ongoing asset requirements.
+	Asset-light industries (e.g., software, retail) typically have lower ratios.
+- Growth vs. Maintenance:
+	Companies in the growth stage often exhibit higher CapEx-to-Revenue ratios.
+	Mature companies may have lower ratios, focusing more on maintaining existing assets.
+
+Advantages:
+- Investment Indicator: Highlights the company’s focus on asset maintenance and expansion relative to its revenue generation.
+- Cross-Industry Comparability: Useful for comparing reinvestment rates within the same industry.
+- Growth vs. Efficiency: Indicates whether the company prioritizes growth through CapEx or focuses on efficiency with minimal reinvestment.
+
+Limitations:
+- Excludes Asset Efficiency: Doesn’t reflect how effectively CapEx translates into revenue or profit. (Combine with Asset Turnover or ROA.)
+- Short-Term Variability: CapEx can vary significantly year-to-year due to project cycles, making long-term trends more meaningful.
+- Industry Variations: Ratios vary widely across industries, limiting cross-sector comparability.
+
+Key Takeaway:
+- CapEx / Total Revenue measures the proportion of revenue reinvested into capital expenditures, reflecting the company’s focus on growth and infrastructure.
+- A higher ratio (>10%) is typical for capital-intensive industries, while a lower ratio (<5%) is common in asset-light or mature businesses.
+- Combine this metric with profitability and efficiency ratios for a comprehensive financial assessment.
+
+Industry			Typical CapEx-to-Revenue Ratio (%)
+Technology & Software		1–5%
+Healthcare			3–7%
+Consumer Goods			2–6%
+Retail				2–5%
+Energy & Utilities		10–20% (High reinvestment needs)
+Manufacturing			5–12%

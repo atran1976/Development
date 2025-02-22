@@ -1,0 +1,44 @@
+Description:
+- Retention Ratio and Return on Equity (ROE) represents the Sustainable Growth Rate (SGR). 
+- This metric estimates the rate at which a company can grow its earnings internally, using retained earnings without needing external financing.
+
+Formula:
+- Retention Ratio × ROE
+
+Interpretation:
+- Retention Ratio × ROE = 0.7 × 0.25 = 0.175 or 17.5%
+- The company can grow its earnings at an annual rate of 17.5% using retained earnings without requiring additional external capital.
+
+Key Insights:
+- Higher SGR (>15%): (Strong Growth Potential): Indicates the company can grow rapidly without additional financing, assuming its current profitability and dividend policy remain stable.
+- Moderate SGR (5–15%): (Balanced Growth): Reflects reasonable growth potential with reliance on internal funds.
+- Low SGR (<5%): (Limited Growth): Suggests slow growth, possibly due to high dividend payouts or low profitability.
+
+- Growth Potential and Strategy: A higher SGR indicates strong growth potential funded entirely by internal earnings. Companies with low SGRs may need to rely on external financing for growth.
+- Retention and Profitability: The SGR depends on both the company’s ability to retain earnings and its efficiency in using those retained earnings to generate returns (ROE).
+- Dividend Policy Impact: High dividend payouts (low retention ratios) reduce the SGR, limiting internal growth potential.
+
+Advantages:
+- Self-Sustained Growth Indicator: Highlights the growth achievable without diluting equity or increasing leverage.
+- Strategic Benchmarking: Provides a baseline for comparing growth potential across companies with similar capital structures.
+- Dividend and Profitability Analysis: Links dividend policy and profitability to growth, offering a holistic view of financial strategy.
+
+Limitations:
+- Assumes Constant Ratios: The formula assumes ROE and the retention ratio remain stable, which may not hold true over time.
+- Ignores External Financing: Doesn’t account for growth driven by new debt or equity issuance.
+- Industry Variability: Ratios vary significantly across industries, making cross-sector comparisons less meaningful.
+
+Key Takeaway:
+- Retention Ratio × ROE (Sustainable Growth Rate) estimates a company’s internal growth capacity, emphasizing the role of retained earnings and profitability in driving growth.
+- A higher SGR (>15%) reflects strong self-funded growth potential, while a lower SGR (<5%) indicates reliance on external financing or slower growth.
+- Combine this metric with leverage, payout, and cash flow ratios for a comprehensive financial analysis.
+
+Industry			Typical Sustainable Growth Rate (%)
+Technology & Software		15–25%
+Healthcare			10–20%
+Consumer Goods			5–15%
+Retail				5–10%
+Energy & Utilities		3–8% (High dividends, slow growth)
+Manufacturing			7–15%
+
+

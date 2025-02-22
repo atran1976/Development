@@ -1,0 +1,35 @@
+Description"
+- DPS shows the amount of dividends a company pays out per share of its stock over a specific period, typically annually.
+
+Formula:
+- DPS =  Total Dividends Paid / Total Number of Outstanding Shares
+
+Interpretation:
+- DPS = (10 / 5) = 2
+- Each shareholder receives $2.00 per share.
+
+Key Insights:
+- Higher DPS: Indicates strong financial performance and willingness to distribute profits. High DPS must be evaluated with payout ratio and earnings stability to ensure sustainability.
+- Lower DPS: May imply the company is reinvesting profits for growth or has cash flow constraints.
+- No DPS: Some growth-focused companies (e.g., tech firms) often do not pay dividends, preferring to reinvest earnings.
+
+Limitations:
+- No Growth Insight: High DPS may limit growth opportunities as retained earnings are reduced.
+- Cyclical Risks: Companies may cut dividends during economic downturns, reducing income stability.
+- Industry Differences: Capital-intensive sectors (e.g., utilities) naturally pay higher dividends, making comparisons across industries unreliable.
+- Debt Financing Risk: Companies may borrow to pay dividends, which could be unsustainable in the long term.
+
+Key Takeaway:
+- DPS is a critical measure of profit distribution, especially for dividend-focused investors.
+- Combine it with metrics like Dividend Yield, Payout Ratio, and EPS Growth to assess financial health and sustainability.
+
+Industry			Typical DPS Range ($)
+Technology & Software		$0.00 – $2.00
+Healthcare & Biotechnology	$0.50 – $3.00
+Consumer Discretionary		$1.00 – $4.00
+Energy				$1.50 – $5.00
+Financial Services		$1.00 – $6.00
+Industrial & Manufacturing	$0.75 – $3.00
+Utilities			$2.00 – $6.00
+Real Estate (REITs)		$3.00 – $8.00
+Consumer Staples		$1.50 – $5.00

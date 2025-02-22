@@ -1,0 +1,45 @@
+Description:
+- The PEG ratio improves upon the P/E ratio by incorporating a company's earnings growth rate into its valuation. 
+- It evaluates whether a stock is fairly valued, overvalued, or undervalued, considering its growth potential.
+
+Formula:
+- PEGRatio = PERatio / EarningsGrowthRate
+
+Example:
+- PEG = 20/10 = 2.0
+- PEG = 2.0 suggests the stock might be overvalued based on its growth prospects.
+
+Interpretation:
+- PEG < 1.0 → Undervalued: Stock is trading below its expected growth potential.
+- PEG = 1.0 → Fairly Valued: Stock’s price matches its growth potential.
+- PEG > 1.0 → Overvalued: Stock may be expensive relative to its growth.
+
+Key Insights:
+- Growth Adjusted Valuation: Unlike P/E, PEG adjusts for growth rates, making it better for growth stocks.
+- Fair Value Indicator: A PEG near 1.0 is ideal for a balanced valuation between price and growth.
+- Comparison Tool: Useful for comparing companies in high-growth sectors, such as technology and biotech.
+
+Limitations of PEG Ratio:
+- Growth Estimates Are Uncertain: Relies on analyst forecasts, which may be inaccurate or optimistic.
+- Short-Term Focus: Focuses on 1–5 years of growth, ignoring long-term sustainability.
+- Ignores Risk and Profitability: Does not account for debt, cash flow, or business risks.
+- Negative or Low Growth Rates: Cannot be used for companies with negative growth or very low growth rates, as it may produce misleading results.
+- Industry-Specific Variability: High-growth industries often have higher PEGs, so comparisons should be within the same sector.
+
+Key Takeaway: 
+- Combine PEG ratio with P/E ratio, ROE, and cash flow analysis to get a comprehensive view of valuation and growth potential.
+- Analyze trends in growth rates and earnings consistency before making decisions.
+
+
+Industry		Average PEG Ratio
+Energy			0.60
+Basic Materials		0.86
+Consumer Cyclical	0.97
+Communication Services	1.22
+Financial		1.55
+Industrials		1.69
+Technology		1.83
+Healthcare		2.37
+Real Estate		2.57
+Consumer Defensive	2.77
+Utilities		3.32

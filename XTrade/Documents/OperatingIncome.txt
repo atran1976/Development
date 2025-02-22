@@ -1,0 +1,23 @@
+Description:
+- Operating Income (also called Operating Profit or Earnings Before Interest and Taxes (EBIT)) is a profitability metric that measures the income a company generates from its core business operations after deducting operating expenses (OPEX) and cost of goods sold (COGS).
+-  It reflects how effectively a company generates profit from its primary business activities.
+
+Formula:
+- Operating Income = Gross Profit − Operating Expenses
+
+Key Components:
+- Profitability Measure: Highlights profitability before financing and tax decisions.
+- Operational Efficiency: High operating margins indicate strong cost control and pricing power.
+- Industry Comparisons: Must be evaluated within the same industry, as capital-intensive sectors tend to have lower margins.
+- Trend Analysis: Declining operating income may signal rising costs or inefficiencies, while growth suggests expansion or cost control.
+
+Limitations:
+- Ignores Financing Costs: Doesn’t reflect interest payments on debt, which impacts net profitability.
+- Excludes Taxes: Operating Income can overstate profitability for companies with high tax obligations.
+- Non-Cash Adjustments: Includes depreciation and amortization, which may distort comparisons between asset-light and capital-intensive businesses.
+- Industry Sensitivity: Industry-specific benchmarks must be used, as high margins are typical in tech, while low margins are common in retail and energy.
+
+Key Takeaway:
+- Operating Income measures the profitability and efficiency of a company’s core operations.
+- It’s most useful when combined with metrics like EBITDA, Net Profit Margin, and Return on Assets (ROA) for comprehensive analysis.
+

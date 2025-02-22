@@ -1,0 +1,45 @@
+Description:
+- Total Debt / EBITDA ratio measures a company’s financial leverage by comparing its total debt obligations to its earnings before interest, taxes, depreciation, and amortization (EBITDA). 
+- It evaluates the company’s ability to repay its debt using its operating earnings.
+
+Formula:
+- Total Debt / EBITDA = Total Debt / EBITDA
+
+Interpretation:
+- Total Debt / EBITDA = 1000 / 400 = 2.5
+- A ratio of 2.5 means the company’s total debt is 2.5 times its annual EBITDA.
+- It suggests that, theoretically, it would take 2.5 years for the company to repay its debt if all EBITDA were used for this purpose.
+
+Key Insights:
+- Low ratio (e.g., < 2): Indicates lower financial leverage and greater financial stability.
+- Moderate ratio (~2-3): Typically acceptable, but industry-specific norms apply.
+- High ratio (>3): May signal higher risk, as the company might struggle to service its debt if earnings decline.
+
+- Debt Servicing Ability: A lower ratio indicates the company can repay its debt quickly using operating earnings, reducing solvency risks.
+- Leverage Assessment: A higher ratio signals greater reliance on debt, increasing financial vulnerability during economic downturns or earnings declines.
+- Industry Sensitivity: Debt-to-EBITDA benchmarks vary significantly across industries, with capital-intensive sectors often having higher ratios. (Compare within industries.)
+- Cash Flow Proxy: EBITDA is a proxy for cash flow, but it excludes capital expenditures (CapEx), which may distort a company’s actual repayment capacity. (Pair with FCF analysis.)
+
+Advantages:
+- Creditworthiness Indicator: Widely used by lenders and rating agencies to assess a company’s ability to service debt.
+- Simple Calculation: Combines readily available data from the balance sheet and income statement.
+- Cross-Company Comparison: Effective for comparing leverage levels across similar companies or industries.
+
+Limitations:
+- Ignores Interest and CapEx: EBITDA doesn’t account for interest expenses or capital expenditures, which are crucial for debt servicing.
+- Industry-Specific Norms: High ratios may be normal for some industries (e.g., utilities) but risky for others (e.g., technology).
+- Non-Cash Earnings: EBITDA includes non-cash components like depreciation, which may not reflect actual cash flow availability.
+- Short-Term Focus: Doesn’t consider debt maturities, requiring pairing with current ratios or debt schedules for a complete view.
+
+Key Takeaway:
+- Total Debt / EBITDA is a crucial metric for assessing a company’s ability to repay debt using its operating earnings.
+- A lower ratio (<3x) indicates healthier leverage and reduced risk, while a higher ratio (>5x) suggests higher dependence on debt and potential solvency concerns.
+- Combine with interest coverage, free cash flow, and debt maturity analysis for a comprehensive evaluation of financial health.
+
+Industry			Typical Debt-to-EBITDA Ratio
+Technology & Software		1–2x
+Healthcare			2–3x
+Consumer Goods			2–4x
+Retail				3–5x
+Energy & Utilities		4–6x (High debt)
+Manufacturing			2–4x (Capital-intensive)

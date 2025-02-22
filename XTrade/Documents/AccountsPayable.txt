@@ -1,0 +1,27 @@
+Description:
+- Accounts Payable (AP) represents the short-term obligations a company owes to its suppliers or vendors for goods or services purchased on credit.
+
+Formula:
+- Accounts Payable (AP)=Total Purchases on Credit−Payments Made
+
+Key Insights:
+- Liquidity Management: 
+	High AP may reflect cash conservation or working capital management.
+	Low AP could signal faster payments but may strain cash reserves.
+- Supplier Relations:
+	Longer payment cycles may strain vendor relationships.
+	Favorable credit terms can extend DPO without penalties.
+- Cash Flow Optimization:
+	Companies may delay payments strategically to retain cash flow while avoiding late fees.
+
+- Allows companies to purchase goods/services on credit and delay payments to optimize cash flow.
+- Effective use of supplier credit reduces reliance on loans.
+
+Limitations:
+- Liquidity Risks: Excessive AP may signal liquidity struggles and damage supplier relationships.
+- Interest and Late Fees: Delayed payments may result in penalties or interest charges if suppliers impose strict payment terms.
+- Industry Variations: DPO and AP turnover vary significantly by industry, requiring contextual analysis.
+
+Key Takeaway:
+- Accounts Payable measures short-term payment obligations and helps assess a company’s liquidity and credit management efficiency.
+- Use metrics like DPO and AP Turnover Ratio for insights into payment practices and cash flow management.

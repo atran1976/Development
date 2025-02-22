@@ -1,0 +1,37 @@
+Description:
+- It measures the proportion of a company's earnings that are paid out to shareholders in the form of dividends. It indicates the percentage of earnings distributed to shareholders relative to the total earnings retained by the company for reinvestment or other purposes.
+
+Formula:
+- Payout Ratio = (Dividends per Share / Earnings per Share) 
+
+Interpertation:
+- Payout Ratio = 40/100 = 0.40 = 40%
+- The company distributes $0.40 (40%) as for every $1 of earnings as dividends. The remaining 60% are retained for reinvestment or debt reduction.
+
+Key Insights:
+- Low Payout Ratio (e.g., below 30%) - The company retains most of its earnings for reinvestment and growth. This is common in growth-oriented firms.
+- Moderate Payout Ratio (30%–60%) - A balanced approach, signaling stability and room for reinvestment.
+- High Payout Ratio (above 60%) - Indicates a focus on returning profits to shareholders but may raise concerns about growth potential or sustainability, especially if it exceeds 100%.
+
+Limitations:
+- Growth Overlooked: High payouts may limit reinvestment and growth potential.
+- Earnings Volatility: One-time gains or losses may distort earnings, impacting the ratio’s accuracy.
+- Debt and Cash Flow Ignored: Doesn’t account for debt levels or cash flow, which are crucial for dividend sustainability.
+- Industry Differences: Comparisons must be made within the same industry, as payout norms vary significantly.
+
+Key Takeaway:
+- Payout Ratio is a key metric for evaluating dividend sustainability and profit allocation.
+- Use it alongside DPS, EPS, ROE, and Free Cash Flow to assess a company’s financial health and dividend policy.
+
+Industry				Benchmark Payout Ratio
+Technology & Software			10 – 30%
+Healthcare & Biotechnology		20 – 40%
+Consumer Discretionary			30 – 50%
+Energy					40 – 60%
+Financial Services			30 – 50%
+Industrial & Manufacturing		20 – 40%
+Utilities				60 – 80%
+Real Estate (REITs)			80 – 90% (legally required)
+Consumer Staples			40 – 70%
+
+

@@ -1,0 +1,47 @@
+Description:
+- Long-Term Debt / Total Capitalization ratio measures the proportion of a company’s total capitalization that is financed through long-term debt. 
+- It provides insight into the company’s reliance on long-term borrowing as a component of its overall capital structure.
+
+Formula:
+- Long-Term Debt / Total Capitalization
+​
+Interpretation:
+- Long-Term Debt / Total Capitalization = 400 / 1000 = 0.40 or 40%
+- 40% of the company’s capital structure is financed through long-term debt, with the remaining 60% coming from equity (and/or short-term debt).
+- The company has $0.40 of long-term debt for every $1 in total capitalization.
+
+Key Insights:
+- Low Ratio (<30%): (Conservative Financing): Indicates that the company relies less on long-term borrowing, reducing financial risk.
+- Moderate Ratio (30–50%): (Balanced Financing): Reflects a reasonable mix of long-term debt and equity, typical in industries with moderate leverage.
+- High Ratio (>50%): (Aggressive Financing): Indicates a higher reliance on long-term debt, increasing solvency risks and interest obligations.
+
+- Evaluates the financial leverage of the company by highlighting the proportion of its capital structure financed through long-term debt.
+- Assesses the solvency risk associated with the company’s reliance on long-term borrowing.
+
+- Leverage in Long-Term Debt: A higher ratio indicates greater reliance on long-term debt, increasing fixed obligations and financial risks.
+- Capital Structure Balance: A lower ratio suggests the company may prioritize equity financing, which avoids interest obligations but could dilute ownership.
+- Industry Norms Matter: Capital-intensive industries like utilities naturally have higher ratios, while asset-light industries like technology maintain lower ratios.
+
+Advantages:
+- Focus on Long-Term Solvency: Highlights the company’s reliance on long-term debt, a critical factor for assessing future solvency risks.
+- Comparison Within Industries: Useful for comparing companies in the same sector to evaluate capital structure strategies.
+- Stable Measure: Less subject to short-term fluctuations than ratios including short-term debt.
+
+Limitations:
+- Excludes Short-Term Debt: Focuses only on long-term debt, potentially underestimating total leverage if short-term debt is significant.
+- Ignores Cost of Financing: Does not reflect the relative costs of equity versus debt financing. (Combine with WACC for a complete view.)
+- Industry-Specific Variations: Benchmarks vary widely across industries, limiting cross-industry comparability.
+
+Key Takeaway:
+- Long-Term Debt / Total Capitalization is a key metric for evaluating a company’s reliance on long-term debt within its overall capital structure.
+- A lower ratio (<30%) indicates conservative leverage, while a higher ratio (>50%) reflects significant reliance on debt, which may increase financial risk.
+- Combine with other leverage and solvency metrics for a comprehensive analysis of financial health.
+
+
+Industry				Typical Long-Term Debt-to-Capitalization Ratio
+Technology & Software			<20%
+Healthcare				20–40%
+Consumer Goods				30–50%
+Retail					30–60%
+Energy & Utilities			50–70% (Capital-intensive)
+Manufacturing				40–60% (Capital-intensive)

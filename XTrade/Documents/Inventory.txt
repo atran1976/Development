@@ -1,0 +1,22 @@
+Description:
+- Inventory represents the raw materials, work-in-progress (WIP), and finished goods a company holds for production or sale.
+- It is expected to be sold or converted into cash within one year.
+
+Formula:
+- Inventory=Beginning Inventory+Purchases−Cost of Goods Sold (COGS)
+
+Key Insights:
+- Liquidity Assessment: Inventory is a current asset but may not be as liquid as cash or receivables.
+- Sales Efficiency: High turnover or low DIO reflects strong demand and efficient inventory management.
+- Obsolescence Risk: Slow-moving inventory may lead to write-offs and reduced profitability.
+- Operational Efficiency: Excessive inventory ties up capital, while insufficient inventory risks stockouts and lost sales.
+
+Limitations:
+- Obsolescence Risk: Excess inventory may become unsellable, especially in industries with fast-changing trends (e.g., technology).
+- Holding Costs: Storage, insurance, and handling costs may erode profit margins.
+- Misvaluation: Differences in valuation methods (FIFO vs LIFO) affect reported inventory values and profitability.
+- Liquidity Challenges: Inventory may take longer to liquidate, especially in slow markets.
+
+Key Takeaway:
+- Inventory is a current asset critical for revenue generation and operational efficiency.
+- Use metrics like Inventory Turnover Ratio and Days Inventory Outstanding (DIO) to evaluate inventory performance and liquidity.

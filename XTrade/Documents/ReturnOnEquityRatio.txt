@@ -1,0 +1,117 @@
+﻿Definition:
+- ROE (Return on Equity) Margin is a profitability metric that measures how effectively a company generates net income from its shareholders' equity
+
+Formula:
+- ROE = Net Income / Average Shareholders’ Equity
+
+Interpretation:
+- ROE = 200/800 = 0.25 or 25%
+- The company generates $0.25 cents of profit for every $1 of equity invested by shareholders.
+
+Key Insights:
+- A higher ROE ratio is generally viewed positively and indicates that the company is efficient in generating returns for its shareholders. 
+- A lower ROE ratio may indicate less efficient use of equity capital to generate profit. 
+- A negative ROE may suggest financial distress or poor performance.
+
+Note:
+Warrent Buffet prefers ROE >= 20%
+
+Limitations:
+- High debt financing can inflate ROE.
+- ROE doesn’t capture future growth potential
+- One-time gains or losses can distort ROE.
+
+Key Takeaways:
+- Best analyzed with other metrics, such as ROCE, ROA, and Net Profit Margin, for a complete view of profitability and efficiency.
+
+Industry				Average ROE
+Advertising				3.25%
+Aerospace/Defense			13.19%
+Air Transport				21.94%
+Apparel					9.20%
+Auto & Truck				9.37%
+Auto Parts				5.72%
+Bank (Money Center)			14.87%
+Banks (Regional)			12.14%
+Beverage (Alcoholic)			8.70%
+Beverage (Soft)				30.56%
+Broadcasting				-2.16%
+Brokerage & Investment Banking		10.41%
+Building Materials			21.35%
+Business & Consumer Services		14.00%
+Cable TV				19.47%
+Chemical (Basic)			8.89%
+Chemical (Diversified)			-2.36%
+Chemical (Specialty)			14.94%
+Coal & Related Energy			29.07%
+Computer Services			18.77%
+Computers/Peripherals			0.00%
+Construction Supplies			27.11%
+Diversified				15.87%
+Drugs (Biotechnology)			-11.59%
+Drugs (Pharmaceutical)			17.32%
+Education				1.67%
+Electrical Equipment			23.70%
+Electronics (Consumer & Office)		-6.63%
+Electronics (General)			8.80%
+Engineering/Construction		6.41%
+Entertainment				-0.27%
+Environmental & Waste Services		21.01%
+Farming/Agriculture			27.51%
+Financial Services			12.14%
+Food Processing				12.14%
+Healthcare Products			12.14%
+Healthcare Support Services		12.14%
+Healthcare Information and Technology	12.14%
+Homebuilding				12.14%
+Hospitals/Healthcare Facilities		12.14%
+Hotel/Gaming				12.14%
+Household Products			12.14%
+Information Services			12.14%
+Insurance (General)			12.14%
+Insurance (Life)			12.14%
+Insurance (Property & Casualty)		12.14%
+Investments & Asset Management		12.14%
+Machinery				12.14%
+Metals & Mining				12.14%
+Office Equipment & Services		12.14%
+Oil/Gas (Integrated)			12.14%
+Oil/Gas (Production and Exploration)	12.14%
+Oil/Gas Distribution			12.14%
+Oilfield Services/Equipment		12.14%
+Packaging & Container			12.14%
+Paper/Forest Products			12.14%
+Power					12.14%
+Precious Metals				12.14%
+Publishing & Newspapers			12.14%
+R.E.I.T.				12.14%
+Real Estate (Development)		12.14%
+Real Estate (General/Diversified)	12.14%
+Recreation				12.14%
+Reinsurance				12.14%
+Restaurant/Dining			12.14%
+Retail (Automotive)			12.14%
+Retail (Building Supply)		12.14%
+Retail (Distributors)			12.14%
+Retail (General)			12.14%
+Retail (Grocery and Food)		12.14%
+Retail (Online)				12.14%
+Retail (Special Lines)			12.14%
+Rubber & Tires				12.14%
+Semiconductor				12.14%
+Shipbuilding & Marine			12.14%
+Shoe					12.14%
+Software (Entertainment)		12.14%
+Software (Internet)			12.14%
+Software (System & Application)		12.14%
+Steel					12.14%
+Telecom (Wireless)			12.14%
+Telecom. Equipment			12.14%
+Telecom. Services			12.14%
+Tobacco					12.14%
+Transportation				12.14%
+Transportation (Railroads)		12.14%
+Trucking				12.14%
+Utility (General)			12.14%
+Utility (Water)				12.14%
+Wholesalers				12.14%

@@ -1,0 +1,21 @@
+Description:
+- Current Assets are short-term assets that a company expects to convert into cash, sell, or consume within one year or its operating cycle—whichever is longer.
+- They are crucial indicators of a company's liquidity and short-term financial health.
+
+Formula:
+- Current Assets = CashandCash Equivalents + Accounts Receivable + Inventory + Marketable Securities + Prepaid Expenses + Other Current Assets
+
+Key Insights:
+- Liquidity Assessment: Determines a company's ability to meet short-term obligations (e.g., payroll, suppliers).
+- Performance Analysis: Efficient management of accounts receivable and inventory turnover improves profitability.
+- Loan Approval and Creditworthiness: Lenders use current assets to evaluate whether a company can repay short-term loans.
+
+Limitations:
+- Liquidity Assumptions: Not all current assets are equally liquid—e.g., inventory may take time to sell.
+- Accounts Receivable Risks: Assumes customers will pay on time, but defaults may occur.
+- Inventory Valuation Issues: Inventory values may decline due to obsolescence or market fluctuations.
+- Prepaid Expenses Are Non-Liquid: Prepaid costs cannot be easily converted into cash if needed.
+
+Key Takeaway:
+- Current Assets are vital for assessing short-term liquidity, cash flow efficiency, and working capital management.
+- Use them with liquidity ratios like Current Ratio and Quick Ratio to evaluate a company’s financial health.

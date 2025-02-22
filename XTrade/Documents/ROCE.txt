@@ -1,0 +1,45 @@
+Description:
+- ROCE (Return on Capital Employed) is a profitability ratio that measures how efficiently a company generates profits from its capital employed. 
+- It evaluates how well a company utilizes both equity and debt to produce operating income.
+- Address the question - Does the company earn enough?
+
+Formula:
+- ROCE = (Ebit / (TotalAssets - CurrentLiabilities)) * 100
+
+Interpertation:
+- ROCE = (500,000 / 1,500,000) = 0.33 or 33.33%
+- The company generates $0.33 of profit in every $1.00 of capital employed.
+
+Key Insights:
+- A higher ROCE means the company uses its capital efficiently to generate profits. 
+- A lower ROCE may signal inefficient use of capital or over-investment in assets.
+- When ROCE > ROE, it signifies that a company has little/no debt.
+- A narrower discrepancy between ROCE and ROE is preferable. Warrent Buffet prefers ROCE >= 20%
+
+- It considers both equity and debt, offering a more holistic view of profitability.
+- Evaluates sustainable profitability rather than short-term gains.
+
+Limitations:
+- Works well for asset-heavy industries but may underrepresent technology or service-based companies with fewer physical assets.
+- Large capital investments or asset sales in a given year can distort results.
+- Ignores Tax and Debt Costs: Focuses on operating profit, not accounting for actual net earnings.
+- Asset Valuation Issues: Assets are recorded at historical cost, so companies with older assets may have artificially higher ROCE.
+- Short-Term Focus: May overestimate profitability during periods of low investment and underestimate it during expansion phases.
+
+Key Takeaways:
+- Ignores Future Growth: Focuses on current performance without considering growth prospects.
+- Accounting Adjustments Impact: Dependent on accounting methods (e.g., depreciation policies), which may distort comparisons.
+- Capital-Intensive Bias: Works best for capital-heavy industries but may not suit service-based businesses.
+- Non-Operating Profits Excluded: Does not account for non-operating income, which might affect actual returns.
+
+
+Industry			Typical ROCE (%)
+Technology & Software		15–30%
+Healthcare & Biotechnology	10–20%
+Consumer Discretionary		10–20%
+Energy				5–15%
+Financial Services		10–25%
+Industrial & Manufacturing	10–20%
+Utilities			5–15%
+Real Estate (REITs)		4–12%
+Consumer Staples		10–20%

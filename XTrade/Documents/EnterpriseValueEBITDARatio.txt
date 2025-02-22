@@ -1,0 +1,158 @@
+Description:
+- EV/EBITDA (Enterprise Value to Earnings Before Interest, Taxes, Depreciation, and Amortization) is a widely used valuation multiple that compares a company's total value (EV) to its EBITDA.
+
+Formula:
+- EV-To-EBITDA = Enterprise Value / EBITDA
+
+Interpretation:
+- EV/EBITDA = 550 / 50 = 11
+​- The company is valued at 11 times its EBITDA.
+- The company's enterprise value (EV) is $11 For every $1 of EBITDA.
+
+Key Insights:
+- EV/EBITDA < 10: Company may be undervalued relative to peers.
+- EV/EBITDA between 10–15: Company is typically fairly valued.
+- EV/EBITDA > 15: Company may be overvalued, or investors expect high growth potential.
+
+- Low EV/EBITDA (< Industry Average) 
+	May indicate the company is undervalued or facing financial difficulties.
+	Could also mean low growth potential.
+- High EV/EBITDA (> Industry Average):
+	Suggests overvaluation or reflects high growth expectations.
+	Common in high-growth industries like technology.
+
+- Capital Structure Neutral: Incorporates debt and cash, making it useful for comparing highly leveraged and debt-free companies.
+- Cash Flow Proxy: Focuses on operating profitability before non-operating costs (e.g., taxes and interest).
+- Cross-Industry Comparison: Suitable for industries with capital-intensive structures, such as energy, utilities, and real estate.
+- Acquisition Tool: Frequently used in mergers and acquisitions (M&A) to determine valuation multiples.
+
+Limitations:
+- Ignores CapEx: EBITDA excludes capital expenditures, which can be significant for industries like manufacturing and energy.
+- Non-Cash Adjustments: Depreciation and amortization are excluded, potentially overstating profitability for asset-heavy businesses.
+- Debt and Risk Unaccounted: While debt is factored into EV, it doesn’t consider the risk associated with high debt levels.
+- Growth Not Considered: Unlike the PEG ratio, EV/EBITDA ignores growth rates, which are critical for growth stocks.
+
+Key Takeaway:
+- The EV/EBITDA ratio is useful for comparing companies with different capital structures and is widely applied in M&A valuations.
+- Combine it with other metrics like P/E, P/S, and ROCE for a comprehensive analysis of value, profitability, and growth.
+
+
+Industry				Average EV/EBITDA Multiple
+Advertising/Marketing Services		14.31
+Aerospace & Defense			33.08
+Agricultural Commodities/Milling	26.53
+Air Freight/Couriers			38.13
+Airlines				6.17
+Alternative Power Generation		13.43
+Aluminum				12.80
+Apparel/Footwear			14.12
+Apparel/Footwear Retail			24.46
+Auto Parts: OEM				12.98
+Automotive Aftermarket			7.61
+Beverages: Alcoholic			12.29
+Beverages: Non-Alcoholic		12.22
+Biotechnology				23.77
+Broadcasting				13.28
+Building Products			12.18
+Cable/Satellite TV			6.02
+Casinos/Gaming				30.69
+Catalog/Specialty Distribution		8.91
+Chemicals: Agricultural			9.54
+Chemicals: Major Diversified		15.38
+Chemicals: Specialty			17.28
+Coal					6.56
+Commercial Printing/Forms		27.36
+Computer Communications			16.46
+Computer Peripherals			23.38
+Computer Processing Hardware		11.52
+Construction Materials			9.17
+Consumer Sundries			8.18
+Containers/Packaging			9.79
+Contract Drilling			16.51
+Data Processing Services		30.49
+Department Stores			9.67
+Discount Stores				13.39
+Drugstore Chains			10.89
+Electric Utilities			14.89
+Electrical Products			12.60
+Electronics & Computer Distribution	12.09
+Engineering & Construction		15.90
+Entertainment				20.16
+Farm & Heavy Construction Machinery	11.21
+Farm Products				10.98
+Financial Data & Stock Exchanges	21.69
+Food Distribution			11.16
+Footwear & Accessories			12.74
+Furnishings, Fixtures & Appliances	11.79
+Gambling				9.76
+Gold					10.65
+Grocery Stores				11.19
+Healthcare Plans			12.92
+Health Information Services		22.62
+Home Improvement Retail			14.12
+Household & Personal Products		14.41
+Industrial Distribution			16.33
+Information Technology Services		17.93
+Insurance Brokers			18.45
+Insurance: Diversified			12.13
+Insurance: Life				8.91
+Insurance: Property & Casualty		9.96
+Insurance: Reinsurance			4.08
+Insurance: Specialty			8.45
+Integrated Freight & Logistics		13.52
+Internet Content & Information		20.24
+Internet Retail				17.27
+Leisure					14.67
+Lodging					18.91
+Luxury Goods				9.97
+Marine Shipping				4.77
+Medical Care Facilities			17.64
+Medical Devices				19.74
+Medical Distribution			13.28
+Medical Instruments & Supplies		20.07
+Metal Fabrication			12.57
+Mortgage Finance			13.85
+Oil & Gas Drilling			5.29
+Oil & Gas E&P				5.57
+Oil & Gas Equipment & Services		7.87
+Oil & Gas Integrated			6.33
+Oil & Gas Midstream			8.76
+Oil & Gas Refining & Marketing		8.61
+Other Industrial Metals & Mining	6.61
+Other Precious Metals & Mining		15.51
+Packaged Foods				13.65
+Packaging & Containers			11.95
+Paper & Paper Products			11.62
+Personal Services			13.24
+Pollution & Treatment Controls		21.09
+Publishing				13.26
+Railroads				12.24
+Real Estate: Development		11.55
+Real Estate Services			17.37
+Recreational Vehicles			12.75
+REIT: Diversified			13.57
+REIT: Healthcare Facilities		18.30
+REIT: Hotel & Motel			10.50
+REIT: Industrial			17.29
+REIT: Mortgage				21.20
+REIT: Office				14.87
+REIT: Residential			18.02
+REIT: Retail				15.34
+REIT: Specialty				18.76
+Rental & Leasing Services		8.26
+Residential Construction		8.70
+Resorts & Casinos			11.93
+Restaurants				14.80
+Scientific & Technical Instruments	22.50
+Security & Protection Services		11.24
+Semiconductor Equipment & Materials	29.32
+Semiconductors				29.51
+Software: Application			35.11
+Software: Infrastructure		28.73
+Solar					25.68
+Specialty Business Services		11.76
+Specialty Chemicals			12.32
+Specialty Industrial Machinery		17.38
+Specialty Retail			12.71
+Staffing & Employment Services		13.51
+Steel					8.0

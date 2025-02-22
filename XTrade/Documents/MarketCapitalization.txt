@@ -1,0 +1,30 @@
+Definition:
+It represents the total value of a publicly traded company's outstanding shares of stock.
+
+Formula:
+Market Capitalization = Current Market Price per Share × Total Number of Outstanding Shares
+
+Why It Matter?
+Investment Analysis: 
+Market capitalization helps investors evaluate investment opportunities by providing insights into a company's size, risk profile, and growth potential.
+
+Portfolio Construction: 
+Investors often use market capitalization to diversify their portfolios across companies of different sizes and risk profiles.
+
+Benchmarking: 
+Market capitalization is used as a benchmark for comparing the performance of individual stocks, market indices, and investment funds.
+
+Sector Classification: 
+Companies are often classified into sectors based on their market capitalization, allowing for sector-specific analysis and comparisons
+
+
+
+Interpretation:
+Large Cap: 
+Companies with a market capitalization typically greater than $10 billion. These are generally well-established companies with stable operations and significant market presence.
+
+Mid Cap: 
+Companies with a market capitalization typically between $2 billion and $10 billion. Mid-cap companies are often considered to have growth potential but may carry higher risk than large-cap companies.
+
+Small Cap: 
+Companies with a market capitalization typically below $2 billion. Small-cap companies are often newer or less-established firms with higher growth potential but also higher risk.

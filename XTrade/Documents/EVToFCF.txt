@@ -1,0 +1,42 @@
+Description:
+- Enterprise Value / Free Cash Flow (EV/FCF) ratio is a valuation metric that compares a company's Enterprise Value (EV) to its Free Cash Flow (FCF). 
+- It indicates how much investors are paying for a company's ability to generate free cash flow.
+
+Formula:
+- EV/FCF
+
+Interpretation:
+- EV/FCF = 13
+- Investors are valuing the company at 13 times its Free Cash Flow (FCF). 
+- It would take approximately 13 years of current Free Cash Flow to "pay back" the company's Enterprise Value, assuming the FCF remains constant.
+
+Key Insights:
+- Lower Ratio (<15x): (Undervalued) Indicates the company generates significant free cash flow relative to its valuation, making it an attractive investment.
+- Moderate Ratio (15x–30x): (Fairly Valued) Suggests the company's free cash flow generation is in line with its valuation.
+- Higher Ratio (>30x): (Overvalued) Suggests the company is expensive relative to its free cash flow, which could be a concern unless future cash flow growth is expected.
+
+- Lower EV/FCF Ratio: The company is generating significant free cash flow relative to its valuation, suggesting it may be undervalued or more efficient at producing cash.
+- Higher EV/FCF Ratio: The company is less efficient at generating free cash flow relative to its valuation or may be overvalued.
+
+- Valuation Metric: Helps determine if a company is overvalued or undervalued relative to its ability to generate cash.
+- Cash Flow Focus: Unlike earnings-based metrics, it focuses on cash, providing a clearer view of a company's financial health.
+- Comparability: Facilitates comparison between companies with varying capital structures since it considers both debt and equity.
+
+Limitations
+- Industry Variations: Capital-intensive industries (e.g., utilities, manufacturing) typically have higher EV/FCF ratios due to higher capital expenditures.
+- Volatile FCF: Free cash flow can fluctuate significantly, especially for cyclical companies, potentially distorting the ratio.
+- Short-Term View: A one-period EV/FCF ratio might not reflect long-term trends or growth potential.
+- Excludes Growth: The ratio does not directly account for future growth prospects, which might justify a higher EV/FCF.
+
+Key Takeaways
+- Enterprise Value / Free Cash Flow (EV/FCF) is a powerful valuation metric that evaluates a company’s ability to generate cash relative to its market value.
+- A lower EV/FCF ratio suggests better value and stronger cash flow generation.
+- Use EV/FCF alongside growth, debt, and profitability metrics for a more comprehensive analysis.
+
+Industry			Typical EV/FCF Ratio
+Technology & Software		15–30x
+Healthcare			15–25x
+Consumer Staples		10–20x
+Retail				10–20x
+Energy & Utilities		8–15x
+Manufacturing			10–18x

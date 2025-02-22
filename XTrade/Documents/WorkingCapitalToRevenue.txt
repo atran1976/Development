@@ -1,0 +1,47 @@
+Description:
+- Working Capital / Total Revenue ratio measures the proportion of a company’s working capital relative to its total revenue. 
+- It indicates the company’s ability to use its short-term resources to support its revenue generation and assess its operational efficiency.
+
+Formula:
+- Working Capital / Total Revenue
+
+Interpretation:
+- Working Capital / Total Revenue = 200 / 1000 = 0.20 or 20%
+- The company’s working capital is 20% of its total revenue.
+- The company generates $1 of revenue for every $0.20 working capital.
+
+Key Insights:
+- Higher Ratio (>30%): (High Liquidity, Potential Inefficiency): Indicates strong liquidity, but may also suggest inefficient use of working capital if excessive resources are tied up in current assets.
+- Moderate Ratio (10–30%): (Balanced Efficiency): Reflects an efficient balance between working capital and revenue generation.
+- Low Ratio (<10%): (Low Liquidity, Potential Risk): Suggests limited working capital, which may indicate liquidity challenges or tight cash management
+
+- Liquidity Indicator: Evaluates whether the company’s short-term resources are sufficient to support its revenue generation.
+- Operational Efficiency: Indicates how effectively working capital is utilized in driving revenue.
+
+- Liquidity Assessment: A higher ratio indicates the company has a larger cushion of current assets relative to liabilities to support revenue generation.
+- Efficiency Indicator: A very high ratio may signal inefficient use of working capital (e.g., excess inventory or receivables).
+- Industry Sensitivity: Asset-light industries like tech often have lower ratios due to minimal inventory and receivables.
+- Capital-intensive industries like manufacturing tend to have higher ratios due to higher inventory and receivables.
+
+Advantages:
+- Short-Term Resource Analysis: Highlights how well a company’s short-term assets and liabilities are aligned with revenue generation.
+- Operational Efficiency Indicator: Reflects whether working capital is being effectively utilized to support operations.
+- Industry Comparisons: Useful for benchmarking working capital efficiency across similar companies.
+
+Limitations:
+- Industry Variations: Ratios differ significantly across industries, making cross-sector comparisons less meaningful.
+- Doesn’t Measure Profitability: A high ratio does not necessarily indicate profitability or cost-effectiveness.
+- Short-Term Fluctuations: Seasonal changes or one-time events can distort the ratio, requiring longer-term analysis.
+
+Key Takeaway:
+- Working Capital / Total Revenue assesses the relationship between short-term resources and revenue generation, highlighting liquidity and efficiency.
+- A moderate ratio (10–30%) indicates balanced liquidity and efficient working capital usage.
+- Combine this ratio with profitability and efficiency metrics for a comprehensive financial analysis.
+
+Industry			Typical Working Capital-to-Revenue Ratio (%)
+Technology & Software		5–15%
+Healthcare			10–20%
+Consumer Goods			15–25%
+Retail				5–10%
+Energy & Utilities		10–20%
+Manufacturing			15–30%

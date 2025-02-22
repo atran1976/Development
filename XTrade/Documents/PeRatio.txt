@@ -1,0 +1,156 @@
+Description:
+- It compares a company's current stock price to its earnings per share (EPS). It is a valuation ratio that provides insights into how much investors are willing to pay for each dollar of a company's earnings.
+- How many years it take to get your back initial invested amt?
+
+Formula:
+- PE Ratio = Market Price per Share / Earnings per Share (EPS)
+
+Example:
+- P/E = (100/5) = 20 
+- Investors are willing to pay $20 for every $1 of earnings.
+
+Types of P/E Ratios:
+- Trailing P/E:
+	Uses actual earnings from the last 12 months.
+	Reflects past performance but may not predict future growth.
+- Forward P/E:
+	Uses projected earnings for the next 12 months.
+	Reflects future expectations but depends on estimates.
+
+Interpretation:
+- High P/E (> Industry Average): Investors expect high growth in the future, but it may also indicate overvaluation.
+- Low P/E (< Industry Average): Could suggest a value stock or a company with low growth prospects.
+- Negative P/E: Indicates losses instead of profits—often seen in startups or companies in distress.
+
+Limitations:
+- Ignores Growth: Doesn’t factor in future earnings growth. Use PEG ratio (P/E adjusted for growth) to account for growth rates.
+- No Debt Consideration: P/E doesn’t reflect debt levels, which impact risk and profitability.
+- Earnings Manipulation: EPS can be inflated through accounting tricks, affecting the P/E ratio.
+- Industry Variations: P/E ratios vary widely between industries, making cross-industry comparisons unreliable.
+- No Cash Flow Insight: Focuses on earnings, not cash flow, which may better indicate financial health.
+- Negative Earnings Issue: Companies with negative earnings cannot have a P/E ratio, making comparisons difficult
+
+2024 Analysis:
+Industry					Average P/E Ratio
+Advertising Agencies				23.23
+Aerospace & Defense				28.23
+Agricultural Inputs				22.48
+Airlines					20.73
+Apparel Manufacturing				20.22
+Apparel Retail					18.5
+Asset Management				14.25
+Auto Manufacturers				7.35
+Auto Parts					15.91
+Auto & Truck Dealerships			16.4
+Banks - Diversified				17.43
+Banks - Regional				14.9
+Beverages - Non-Alcoholic			26.23
+Biotechnology					22.73
+Broadcasting					13.45
+Building Materials				28.01
+Building Products & Equipment			20.63
+Business Equipment & Supplies			18.7
+Capital Markets					19.46
+Chemicals					17.38
+Communication Equipment				32.07
+Computer Hardware				26.27
+Consulting Services				25.74
+Credit Services					16.01
+Department Stores				20.99
+Diagnostics & Research				31.13
+Discount Stores					28.47
+Drug Manufacturers - General			32.07
+Drug Manufacturers - Specialty & Generic	25.69
+Education & Training Services			22.85
+Electrical Equipment & Parts			29.36
+Electronic Components				29.79
+Electronics & Computer Distribution		19.47
+Engineering & Construction			29.37
+Entertainment					35.37
+Farm & Heavy Construction Machinery		14.72
+Farm Products					16.8
+Financial Data & Stock Exchanges		28.99
+Food Distribution				23.13
+Footwear & Accessories				16.45
+Furnishings, Fixtures & Appliances		18.99
+Gambling					21.25
+Gold						21.06
+Grocery Stores					20.74
+Healthcare Plans				18.82
+Health Information Services			49.71
+Home Improvement Retail				26.59
+Household & Personal Products			27.18
+Industrial Distribution				26.54
+Information Technology Services			33.96
+Insurance Brokers				28.79
+Insurance - Diversified				7.73
+Insurance - Life				15.68
+Insurance - Property & Casualty			14.13
+Insurance - Reinsurance				7.38
+Insurance - Specialty				12.85
+Integrated Freight & Logistics			26.53
+Internet Content & Information			33.46
+Internet Retail					34.28
+Leisure						24.29
+Lodging						27.02
+Marine Shipping					7.05
+Medical Care Facilities				18.57
+Medical Devices					31
+Medical Distribution				24.75
+Medical Instruments & Supplies			39.26
+Metal Fabrication				26.56
+Mortgage Finance				16.29
+Oil & Gas E&P					11.43
+Oil & Gas Equipment & Services			14.64
+Oil & Gas Integrated				16.04
+Oil & Gas Midstream				14.25
+Oil & Gas Refining & Marketing			14.25
+Other Precious Metals & Mining			12.4
+Packaged Foods					21.98
+Packaging & Containers				20.97
+Personal Services				26.17
+Pollution & Treatment Controls			30.02
+Railroads					18.45
+Real Estate - Development			10.62
+Real Estate Services				34.58
+Recreational Vehicles				16.37
+REIT - Diversified				27.52
+REIT - Healthcare Facilities			29.73
+REIT - Hotel & Motel				24.31
+REIT - Industrial				27.89
+REIT - Mortgage					11.62
+REIT - Office					34.03
+REIT - Residential				34.11
+REIT - Retail					30.87
+REIT - Specialty				30.37
+Rental & Leasing Services			15.29
+Residential Construction			10.72
+Resorts & Casinos				21.53
+Restaurants					22.93
+Scientific & Technical Instruments		36.08
+Security & Protection Services			22.06
+Semiconductor Equipment & Materials		27.42
+Semiconductors					35.23
+Software - Application				45.05
+Software - Infrastructure			33.99
+Specialty Business Services			26.46
+Specialty Chemicals				24.49
+Specialty Industrial Machinery			29.31
+Specialty Retail				19.62
+Staffing & Employment Services			27.1
+Steel						17.6
+Telecom Services				24.92
+Thermal Coal					8.12
+Tobacco						15.36
+Tools & Accessories				22.1
+Travel Services					34.1
+Trucking					29.54
+Utilities - Diversified				18.39
+Utilities - Regulated Electric			19.99
+Utilities - Regulated Gas			19.61
+Utilities - Regulated Water			21.16
+Utilities - Renewable				22.65
+Waste Management				35.25
+
+
+

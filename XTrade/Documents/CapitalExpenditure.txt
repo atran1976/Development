@@ -1,0 +1,49 @@
+Description:
+- Capital Expenditure (CapEx) represents the cash outflows a company incurs to acquire, upgrade, or maintain physical assets like property, plants, equipment, and technology. 
+- It reflects long-term investments aimed at enhancing production capacity, efficiency, or future growth.
+
+Formula:
+- CapEx = Ending Net PPE − Beginning Net PPE + Depreciation and Amortization
+
+Interpretation:
+- CapEx = 150,000
+- The company spent $150,000 on capital expenditures 
+
+Types of CapEx:
+- Growth CapEx: Investments in new assets to expand production capacity or enter new markets. (Growth-focused companies.)
+- Maintenance CapEx: Spending to replace or repair existing assets to sustain current operations. (Mature businesses.)
+
+Key Insights:
+- High CapEx: (Growth Phase) Indicates the company is investing heavily in future growth, suggesting confidence in long-term performance. (Monitor Free Cash Flow.)
+- Low CapEx: (Mature or Efficiency Focus) Reflects a focus on maintenance spending, often signaling stable operations or cash conservation. (Watch for underinvestment risks.)
+
+- Growth vs Profitability Balance: High CapEx reflects growth investments, but sustained spending may strain cash flows without immediate returns. (Monitor FCF and leverage ratios.)
+- Liquidity Risks: Asset-heavy industries often require external financing to fund CapEx, raising debt risks. (Track debt-to-equity ratios.)
+- Replacement vs Expansion Focus: Maintenance CapEx sustains operations, while growth CapEx expands capacity—distinguish between the two for long-term analysis. (Analyze trends.)
+- Depreciation Trends: CapEx < Depreciation may suggest underinvestment and asset deterioration, while CapEx > Depreciation signals growth focus. (Check asset lifespans.)
+
+Advantages:
+- Growth and Expansion Indicator: Tracks investments in new capacity, technological upgrades, and operational improvements.
+- Long-Term Planning Tool: Supports budgeting and forecasting, ensuring adequate funding for strategic goals.
+- Asset Utilization Testing: Highlights whether investments translate into revenue growth and operational efficiency. (Monitor ROIC.)
+
+Limitations:
+- No Immediate ROI Visibility: CapEx focuses on long-term investments, making short-term returns unclear. (Track trends over time.)
+- Industry Dependency: Asset-intensive industries (e.g., energy, utilities) naturally have higher CapEx, while service-based firms show lower spending. (Benchmark carefully.)
+- Excludes Non-Capital Spending: Doesn’t account for R&D costs or marketing expenses that also drive growth. (Pair with operating expenses.)
+- Cash Flow Impact Ignored: High CapEx may strain liquidity, requiring analysis of cash reserves and financing sources. (Monitor FCF.)
+
+Key Takeaway:
+- Capital Expenditure (CapEx) reflects long-term investments in assets, impacting growth potential, efficiency, and financial stability.
+- Combine it with FCF, CapEx ratios, and ROIC to assess whether investments are strategic or risk liquidity constraints.
+
+
+Industry			CapEx as % of Revenue
+Technology & Software		5–10%
+Healthcare			4–8%
+Consumer Goods			3–6%
+Energy				15–20% (asset-heavy)
+Utilities			20–25% (infrastructure)
+Manufacturing			10–15%
+Retail				3–5% (low margins)
+Financial Services		1–3% (low assets)

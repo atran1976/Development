@@ -1,0 +1,122 @@
+Description:
+- Earnings Per Share (EPS) is a profitability metric. It measures the portion of a company's profit allocated to each outstanding share of common stock.
+
+Formula:
+- EPS =  (Net Income − Preferred Dividends) / Weighted Average Number of Common Shares Outstanding
+
+​Key Insights:
+- It represents the portion of a company's profit allocated to each outstanding share of common stock.
+- A higher EPS indicates better profitability on a per-share basis, which is generally favorable for investors.
+
+Limitations:
+- Shares Outstanding Impact: Stock buybacks can inflate EPS without improving actual profitability.
+- Accounting Adjustments: Earnings can be manipulated through accounting practices, affecting EPS reliability.
+- Focuses Only on Equity Holders: Ignores obligations to debt holders, focusing purely on common shareholders.
+
+Key Takeaways:
+- EPS is a profitability metric that measures per-share earnings, providing insights into a company's financial health.
+- It is critical for investors to compare companies and evaluate growth potential.
+- Use EPS alongside other profitability ratios like Net Profit Margin and ROE for a complete analysis.
+- Be cautious of one-time gains/losses that may distort EPS.
+
+Industry			Typical EPS Range ($)
+Technology & Software		1.00 – 10.00
+Healthcare & Biotechnology	0.50 – 5.00
+Consumer Discretionary		1.00 – 6.00
+Energy				0.50 – 4.00
+Financial Services		2.00 – 8.00
+Industrial & Manufacturing	1.00 – 5.00
+Utilities			1.00 – 4.00
+Real Estate (REITs)		0.50 – 3.00
+Consumer Staples		1.50 – 6.00
+
+
+Industry				Expected EPS Growth (Next 5 Years):
+Advertising				39.20%
+Aerospace/Defense			15.19%
+Air Transport				59.76%
+Apparel					6.75%
+Auto & Truck				7.04%
+Auto Parts				20.63%
+Bank (Money Center)			9.37%
+Banks (Regional)			1.91%
+Beverage (Alcoholic)			11.92%
+Beverage (Soft)				10.25%
+Broadcasting				29.76%
+Brokerage & Investment Banking		9.41%
+Building Materials			11.37%
+Business & Consumer Services		13.81%
+Cable TV				-7.95%
+Chemical (Basic)			-5.37%
+Chemical (Specialty)			10.28%
+Coal & Related Energy			Data not available
+Computer Services			9.31%
+Computers/Peripherals			8.67%
+Construction Supplies			16.81%
+Diversified				11.36%
+Drugs (Biotechnology)			6.08%
+Drugs (Pharmaceutical)			9.88%
+Education				16.04%
+Electrical Equipment			17.29%
+Electronics (General)			15.21%
+Engineering/Construction		15.18%
+Entertainment				33.62%
+Environmental & Waste Services		13.41%
+Farming/Agriculture			7.22%
+Financial Services			10.25%
+Food Processing				8.92%
+Healthcare Products			10.28%
+Healthcare Support Services		12.36%
+Homebuilding				11.37%
+Hospitals/Healthcare Facilities		12.36%
+Hotel/Gaming				16.04%
+Household Products			10.28%
+Information Services			13.81%
+Insurance (General)			10.25%
+Insurance (Life)			10.25%
+Insurance (Property & Casualty)		10.25%
+Investments & Asset Management		10.25%
+Machinery				12.36%
+Metals & Mining				7.22%
+Office Equipment & Services		9.31%
+Oil/Gas (Integrated)			7.22%
+Oil/Gas (Production and Exploration)	7.22%
+Oil/Gas Distribution			7.22%
+Oilfield Services/Equipment		7.22%
+Packaging & Container			10.28%
+Paper/Forest Products			7.22%
+Power					7.22%
+Precious Metals				7.22%
+Publishing & Newspapers			13.81%
+R.E.I.T.				10.25%
+Real Estate (Development)		10.25%
+Real Estate (General/Diversified)	10.25%
+Recreation				16.04%
+Reinsurance				10.25%
+Restaurant/Dining			16.04%
+Retail (Automotive)			16.04%
+Retail (Building Supply)		16.04%
+Retail (Distributors)			16.04%
+Retail (General)			16.04%
+Retail (Grocery and Food)		16.04%
+Retail (Online)				16.04%
+Retail (Special Lines)			16.04%
+Rubber & Tires				7.22%
+Semiconductor				15.21%
+Shipbuilding & Marine			7.22%
+Shoe					16.04%
+Software (Entertainment)		16.04%
+Software (Internet)			16.04%
+Software (System & Application)		16.04%
+Steel					7.22%
+Telecom (Wireless)			16.04%
+Telecom Equipment			16.04%
+Telecom Services			16.04%
+Tobacco					16.04%
+Transportation				16.04%
+Transportation (Railroads)		16.04%
+Trucking				16.04%
+Utility (General)			7.22%
+Utility (Water)				7.22%
+Wholesalers				16.04%
+

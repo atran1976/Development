@@ -1,0 +1,30 @@
+Description:
+- EBITDA measures a company's operating performance by excluding the effects of financing decisions, tax strategies, and non-cash expenses like depreciation and amortization.
+
+Formula:
+- EBITDA = EBIT + Depreciation + Amortization
+
+Key Insights:
+- EBITDA isolates operating performance by removing non-operating expenses and non-cash charges.
+
+Limitations:
+- Ignores Debt and Interest Payments: May overstate profitability for companies with high leverage.
+- Excludes Capital Expenditures (CapEx): Does not account for necessary reinvestments in fixed assets to sustain growth.
+- Non-GAAP Metric: EBITDA is not defined under GAAP, so companies may adjust components, leading to inconsistencies.
+
+Key Takeaway:
+- EBITDA is ideal for evaluating core profitability, particularly in capital-intensive industries.
+- Combine it with metrics like Net Income, Operating Income, Cash Flow, and Debt Ratios for a complete financial analysis.
+
+
+Industry				Average EBITDA Multiple
+Software - Application			35.11x
+Consumer Electronics			33.63x
+Semiconductors				29.51x
+Software - Infrastructure		28.73x
+Communication Equipment			27.98x
+Scientific & Technical Instruments	22.50x
+Health Information Services		22.62x
+Diagnostics & Research			22.32x
+Medical Devices				19.74x
+Medical Instruments & Supplies		20.07x

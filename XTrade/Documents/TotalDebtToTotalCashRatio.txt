@@ -1,0 +1,9 @@
+TotalDebt-To-TotalCash Ratio = Total Debt / Total Cash
+
+It assets the company's liquidity and its ability to meet its financial obligations. 
+
+Lower Ratio (Below 1): 
+A ratio below 1 indicates that the company has more cash on hand than its total debt. This suggests good liquidity and a strong ability to cover its short-term obligations.
+
+Higher Ratio (Above 1):
+A ratio above 1 means that the company has more total debt than total cash. This could be a sign that the company may face challenges in meeting its short-term obligations with its existing cash reserves.

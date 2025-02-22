@@ -1,0 +1,20 @@
+Description:
+- Total Liabilities represent the sum of all debts and obligations a company owes to external parties, such as creditors, suppliers, and lenders.
+
+Formula:
+- Total Liabilities = Total Assets − Equity or Current Liabilities + Non-Current Liabilities
+
+Key Insights:
+- Financial Risk Analysis: High liabilities indicate leverage, which can amplify returns but increase financial risk.
+- Liquidity vs. Solvency: Current liabilities assess short-term liquidity, while non-current liabilities focus on long-term solvency.
+- Growth Strategy: Rising liabilities can signal growth investments or expansion efforts, especially in capital-intensive industries.
+- Debt Sustainability: Use Interest Coverage Ratio to check if earnings can cover interest expenses comfortably:
+
+Limitations:
+- Asset and Debt Quality: Doesn’t account for quality of assets backing the liabilities.
+- Off-Balance Sheet Liabilities: May exclude contingent liabilities or lease obligations not reflected on the balance sheet.
+- Timing Mismatch: Maturity schedules for current vs. long-term liabilities are ignored—liquidity crunches may occur despite low overall debt.
+
+Key Takeaway:
+- Total Liabilities measure a company’s debt obligations and are crucial for analyzing financial risk and solvency.
+- Combine with ratios like Debt-to-Equity, Current Ratio, and Interest Coverage for a comprehensive analysis of financial health.

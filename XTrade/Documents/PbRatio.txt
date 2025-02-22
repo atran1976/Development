@@ -1,0 +1,99 @@
+Description:
+- P/B Ratio (Price-to-Book Ratio) is a valuation metric that compares a company's market value to its book value (net asset value). 
+- It helps investors determine whether a stock is overvalued or undervalued relative to its assets.
+
+Formula:
+- P/B Ratio = Market Price per Share / Book Value per Share
+
+Example:
+- P/B Ratio = (50 / 25) = 2
+- Investors are paying $2 for every $1 of net assets.
+
+Interpretation:
+- P/B < 1 – Stock may be undervalued (trading below its asset value).
+- P/B = 1 – Stock is fairly valued (trading at its book value).
+- P/B > 1 – Stock may be overvalued or expected to generate higher returns based on growth potential.
+
+- Asset-Driven Analysis: Useful for companies with tangible assets, such as banks, real estate, and manufacturers.
+- Stable Measure: Book value is relatively stable, unlike earnings, which may fluctuate.
+- Downside Protection: A low P/B ratio may offer a margin of safety during downturns.
+
+- Stable Valuation for Asset-Heavy Firms: Ideal for industries with tangible assets like banks, real estate, and manufacturing.
+- CapExToNetIncome = CapitalExpenditure / NetIncome) * 100 = Determine if a company is capital intensive
+
+Limitations:
+- Ignores Intangible Assets: Doesn’t capture the value of brand reputation, patents, or goodwill, which are significant for tech and service-based companies.
+- Industry Differences: Capital-intensive industries (e.g., energy and utilities) may naturally have lower P/B ratios, making cross-industry comparisons unreliable.
+- Profitability Ignored: A low P/B ratio doesn’t guarantee profitability; companies may have weak earnings or negative cash flow.
+- Debt Impact: High debt levels can artificially inflate book value, leading to misleading conclusions.
+
+Key Takeaway:
+- Use P/B ratio with other metrics like P/E, ROE, and debt-to-equity ratio to gain a complete picture of a company’s valuation.
+- It's ideal for analyzing capital-intensive industries and companies with tangible assets but less effective for firms with intangible assets.
+
+Industry					Average P/B Ratio
+Advertising					5.76
+Aerospace/Defense				5.08
+Air Transport					2.24
+Apparel						2.56
+Auto & Truck					4.60
+Auto Parts					2.00
+Bank (Money Center)				1.05
+Banks (Regional)				1.02
+Beverage (Alcoholic)				3.10
+Beverage (Soft)					7.42
+Broadcasting					0.80
+Brokerage & Investment Banking			1.66
+Building Materials				4.74
+Business & Consumer Services			5.54
+Cable TV					2.06
+Chemical (Basic)				1.98
+Chemical (Diversified)				1.97
+Chemical (Specialty)				2.67
+Coal & Related Energy				1.79
+Computer Services				4.37
+Computers/Peripherals				30.98
+Construction Supplies				3.92
+Diversified					1.87
+Drugs (Biotechnology)				6.14
+Drugs (Pharmaceutical)				5.20
+Education					2.72
+Electrical Equipment				2.92
+Electronics (Consumer & Office)			1.90
+Electronics (General)				3.28
+Engineering/Construction			3.33
+Entertainment					2.59
+Environmental & Waste Services			6.25
+Farming/Agriculture				2.73
+Financial Services (Non-Banking)		2.50
+Food Processing					3.45
+Healthcare Products				4.10
+Healthcare Support Services			3.80
+Homebuilding					1.50
+Hotels & Leisure				2.20
+Household Products				5.00
+Industrial Machinery				3.60
+Insurance (General)				1.20
+Insurance (Life)				1.10
+Insurance (Property & Casualty)			1.30
+Investments & Asset Management			2.80
+Metals & Mining					2.10
+Oil & Gas (Integrated)				1.50
+Oil & Gas (Production and Exploration)		1.40
+Oil & Gas Distribution				2.00
+Packaging & Containers				2.50
+Paper & Forest Products				2.20
+Real Estate (Development)			1.70
+Real Estate (General/Diversified)		1.60
+Real Estate Investment Trusts (REITs)		2.00
+Restaurants					8.00
+Retail (General)				3.00
+Retail (Grocery and Food)			2.50
+Semiconductors					4.50
+Software (Application)				11.03
+Software (Internet)				9.00
+Telecommunications				1.80
+Tobacco						6.00
+Transportation (Logistics)			3.00
+Utilities (General)				1.50
+Waste Management				2.80

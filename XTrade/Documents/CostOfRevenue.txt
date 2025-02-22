@@ -1,0 +1,35 @@
+Description:
+- Cost of Goods and Services (COGS), also known as Cost of Revenue or Cost of Sales, represents the direct costs incurred in producing goods or delivering services sold by a company.
+- It represents the direct costs incurred to produce and deliver goods sold during the period.
+Formula:
+- COGS = Beginning Inventory + Purchases − Ending Inventory
+
+Key Insights:
+- Lower COGS = Higher Gross Margins: Industries like SaaS and pharmaceuticals maintain low COGS due to minimal incremental costs for additional sales.
+- Higher COGS = Volume-Driven Margins: Industries like automotive and manufacturing rely on economies of scale to generate profits despite high COGS.
+- Service-Based vs. Product-Based Industries: Services (e.g., software) typically have lower COGS compared to product-based industries (e.g., retail).
+
+- Efficiency Indicator: Lower COGS% indicates higher efficiency and cost control in production.
+- Inventory Management: Reflects the cost of inventory movement during the period, helping evaluate turnover efficiency.
+- Tax Deductible Expense: COGS is tax-deductible, reducing taxable income.
+
+Limitations:
+- Industry Variations: High-tech and service-based businesses often have low COGS, while retail and manufacturing may have higher COGS due to material costs.
+- Excludes Indirect Costs: Doesn’t account for marketing, administrative, or research expenses, limiting profitability insights.
+- Inventory Valuation Impact: COGS is affected by inventory valuation methods like FIFO (First-In-First-Out) or LIFO (Last-In-First-Out).
+- Seasonal Fluctuations: Businesses with seasonal sales cycles may have variable COGS, complicating comparisons.
+
+Key Takeaway:
+- COGS is critical for measuring production efficiency and calculating gross profit margins.
+- Use it with operating expenses, net profit margins, and inventory turnover ratios for a complete profitability analysis.
+
+Industry			Typical COGS (% of Revenue)
+Technology & Software		20–40%
+Healthcare & Biotechnology	30–50%
+Consumer Discretionary		50–70%
+Energy				60–80%
+Financial Services		Not Applicable
+Industrial & Manufacturing	50–70%
+Utilities			30–50%
+Real Estate (REITs)		20–40%
+Consumer Staples		60–75%

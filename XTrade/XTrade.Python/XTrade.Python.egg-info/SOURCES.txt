@@ -1,0 +1,5 @@
+setup.py
+XTrade.Python.egg-info/PKG-INFO
+XTrade.Python.egg-info/SOURCES.txt
+XTrade.Python.egg-info/dependency_links.txt
+XTrade.Python.egg-info/top_level.txt

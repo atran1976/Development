@@ -1,0 +1,52 @@
+Description:
+- Net PPE to Total Revenue Ratio measures the proportion of a company’s net property, plant, and equipment (PPE) relative to its revenue. 
+- It evaluates capital intensity, indicating how dependent a company is on fixed assets to generate sales and whether those assets are efficiently utilized.
+
+Formula:
+- NetPPE to Revenue ratio = ( NetPPE / Total Revenue )
+
+Interpretation:
+- NetPPE to Revenue ratio = 500 / 2000 = 0.25 or 25%
+- 25% of revenue is tied up in fixed assets
+- The company has $0.25 of NetPPE for every $1 of Revenue.
+
+Key Insights:
+- Low Ratio (< 20%): (Asset-Light or Efficient)
+	Suitable for service-oriented or tech-driven businesses with minimal fixed assets.
+	Indicates high asset utilization and scalability.
+- Moderate Ratio (20–50%): (Balanced Capital Intensity)
+	Common in manufacturing, retail, or consumer goods, reflecting operational efficiency with moderate asset requirements.
+- High Ratio (> 50%): (Capital-Intensive)
+	Found in utilities, energy, or infrastructure-heavy sectors where large fixed asset investments are required.
+	High ratios may signal low asset turnover or overinvestment in assets without corresponding revenue growth.
+
+- Capital Intensity Check: High ratios may indicate capital-heavy operations with long asset lifecycles or low utilization rates.
+- Revenue Efficiency Analysis: Low ratios highlight better revenue generation with fewer fixed assets, often in scalable business models.
+- Growth Potential vs Stability: Higher ratios in growth-focused industries reflect ongoing investments, while stable industries may target lower ratios for efficiency.
+- Liquidity Planning: Companies with high asset dependency may face liquidity issues during revenue downturns and require external financing to cover costs.
+
+Advantages:
+- Fixed Asset Efficiency Focus: Highlights how effectively the company is utilizing fixed assets to generate sales.
+- Capital Investment Monitoring: Tracks whether the company is over-invested in fixed assets, potentially impacting cash flow.
+- Growth and Scalability Check: Suitable for industries balancing capital intensity with growth strategies.
+
+Limitations:
+- Ignores Profitability: Focuses on asset efficiency, not profitability or margins. (Combine with ROA and ROE.)
+- Industry Dependence: Asset-heavy industries naturally have higher ratios, requiring peer comparisons instead of cross-industry benchmarks.
+- Excludes Cash Flow Impacts: Doesn’t measure whether the company’s cash flows can support ongoing asset investments. (Combine with CapEx/OCF.)
+- Book Value Focus: Uses historical asset costs rather than market values, which may distort comparisons in inflationary environments. (Adjust for asset revaluation.)
+
+Key Takeaway:
+- The Net PPE to Total Revenue Ratio evaluates a company’s capital intensity and its reliance on fixed assets to generate sales, offering insights into efficiency and growth potential.
+- Combine it with Fixed Asset Turnover, CapEx Ratios, and Profitability Metrics for a comprehensive financial analysis.
+
+
+Industry				Benchmark Range (%)
+Technology & Software			5–15%
+Healthcare & Pharmaceuticals		10–20%
+Retail & Consumer Goods			15–30%
+Energy					40–70% (capital-intensive)
+Industrial & Manufacturing		30–50%
+Utilities				50–80% (asset-heavy)
+Real Estate (REITs)			60–90% (debt-driven)
+Consumer Staples			15–25%

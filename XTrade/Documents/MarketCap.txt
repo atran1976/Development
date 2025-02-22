@@ -1,0 +1,13 @@
+Description:
+- Market Cap (Market Capitalization) is a metric used to measure the total value of a company's outstanding shares of stock in the market. 
+- It represents the company's equity value and is commonly used to determine its size, stability, and growth potential.
+
+Formula: 
+- Market Cap = Share Price × Total Outstanding Shares
+
+Key Components:
+- Mega Cap (>$200 Billion)
+- Large Cap (>$10 Billion)
+- Mid Cap ($2 Billion–$10 Billion)
+- Small Cap ($300 Million–$2 Billion)
+- Micro Cap (<$300 Million)

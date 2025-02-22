@@ -1,0 +1,49 @@
+Description:
+- The Capital Expenditures to Net Income Ratio measures the proportion of a company’s net income that is being reinvested into the business through capital expenditures (CapEx). 
+- It evaluates a company’s growth strategy, capital intensity, and its ability to fund expansion while generating profits.
+
+Formula:
+- CapEx to Net Income Ratio =  Capital Expenditure / Net Income
+
+Interpretation:
+- CapEx to Net Income Ratio =  200 / 400 = 0.50 or 50%
+- The company reinvests 50% of its net income into capital expenditures
+- The company has $0.50 of CapEx for every $1 of Net Income
+
+Key Insights:
+- Low Ratio (< 25%): (Conservative Investment): The company spends less on capital assets, prioritizing profit retention or dividends. May indicate a mature company with limited growth opportunities.
+- Moderate Ratio (25–50%): (Balanced Growth Strategy): Reflects reasonable reinvestment for growth while maintaining profitability. Suitable for companies with stable revenues and expansion potential.
+- High Ratio (> 50%): (Aggressive Investment): Indicates a focus on growth and expansion, common in early-stage or capital-intensive industries. High ratios may reduce dividends or require external financing.
+- Very High Ratio (> 100%): (Overinvestment or Losses): CapEx exceeds net income, suggesting negative profits or reliance on borrowed funds for growth investments.
+
+Growth vs Profitability Balance: High ratios suggest aggressive expansion, while low ratios imply profit preservation.
+- Capital Intensity Monitoring: Asset-heavy industries (e.g., energy, utilities) naturally show higher CapEx due to infrastructure needs.
+- Liquidity and Debt Risk: Companies with high CapEx and low net income may require external funding, raising leverage risk.
+- Long-Term Investment Focus: High CapEx ratios indicate future growth potential, but require monitoring for short-term cash constraints.
+
+Advantages:
+- Growth Assessment Tool: Highlights whether the company is investing enough to support future growth.
+- CapEx Efficiency Evaluation: Tracks how effectively earnings are reinvested into capital projects.
+- Liquidity and Debt Monitoring: Identifies whether a company’s CapEx strategy may require external financing or debt restructuring.
+
+Limitations:
+- Excludes Debt Effects: Focuses only on earnings, ignoring how debt financing supports CapEx. (Combine with debt ratios.)
+- Industry Variability: Capital-intensive industries have naturally higher ratios, making cross-industry comparisons unreliable. (Focus on industry-specific benchmarks.)
+- Growth vs Maintenance CapEx: Doesn’t differentiate between growth investments and maintenance spending, potentially overstating growth-focused strategies. (Analyze CapEx breakdown if available.)
+- Short-Term Focus: High ratios may indicate temporary growth initiatives, requiring long-term monitoring of returns. (Combine with ROA and ROE for profitability analysis.)
+
+Key Takeaway:
+- The CapEx to Net Income Ratio measures the proportion of profits reinvested into capital assets, offering insights into growth strategies, capital intensity, and cash flow management.
+- Combine it with CapEx to Revenue, FCF, and leverage metrics for a comprehensive growth and risk analysis.
+
+
+Industry				Benchmark Range (%)
+Technology & Software			10–25%
+Healthcare & Pharmaceuticals		15–30%
+Consumer Discretionary			20–40%
+Energy					50–80% (capital-intensive)
+Financial Services			5–15% (low CapEx)
+Industrial & Manufacturing		30–50%
+Utilities				70–100% (asset-heavy)
+Real Estate (REITs)			50–100% (debt-driven)
+Consumer Staples			15–35%

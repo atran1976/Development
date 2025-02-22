@@ -1,0 +1,43 @@
+Description:
+- Long-Term Debt / EBITDA ratio measures a company's ability to repay its long-term debt using its earnings before interest, taxes, depreciation, and amortization (EBITDA). 
+- It evaluates leverage and the company's financial health by assessing its capacity to service debt with its core earnings.
+- Indicates how many years of EBITDA are needed to repay long-term debt.
+
+Formula:
+- LongTermDebt / EbitDa
+
+Interpretation:
+- LongTermDebt / EbitDa = 3 / 1 = 3.0
+- The company’s long-term debt is 3 times its EBITDA, or it would take approximately 3 years of EBITDA to repay the debt, assuming all earnings are allocated to debt repayment.
+
+Key Insights:
+- Low Ratio (<2x): (Low Leverage): Indicates strong ability to service debt, suggesting low financial risk.
+- Moderate Ratio (2–4x): (Manageable Leverage): Reflects acceptable debt levels but may require monitoring, especially during periods of declining earnings.
+- High Ratio (>4x): (High Leverage): Suggests potential financial strain, particularly if earnings decline, indicating higher default risk.
+
+- Leverage and Financial Stability: 
+	A lower ratio indicates a conservative debt structure and lower risk during earnings downturns.
+	A higher ratio may signal over-reliance on debt, which can become problematic if earnings decline.
+- Industry Sensitivity:
+	Asset-heavy industries (e.g., energy, utilities) often have higher ratios due to significant long-term investments in infrastructure.
+	Asset-light industries (e.g., software) tend to operate with lower ratios.
+- Debt Repayment Capacity:
+	A ratio >4x often raises concerns about the company’s ability to service its debt without external refinancing.
+
+Limitations:
+- Ignores Interest and Principal Payments: Does not account for actual debt servicing costs, such as interest or principal repayments.
+- EBITDA Limitations: EBITDA excludes non-cash items like depreciation, which could understate the financial strain in capital-intensive industries.
+- Industry Variations: Benchmarks vary widely, so the ratio should be analyzed in the context of the company’s industry.
+
+Key Takeaway:
+- Long-Term Debt / EBITDA is a critical metric for evaluating a company’s ability to repay long-term debt using its core operating earnings.
+- A lower ratio (<2x) indicates strong financial health and debt management, while a higher ratio (>4x) may signal excessive leverage and potential financial risk.
+- Combine this ratio with other leverage, liquidity, and profitability metrics for a comprehensive financial analysis.
+
+Industry			Typical Long-Term Debt / EBITDA Ratio
+Technology & Software		1–2x
+Healthcare			2–3x
+Consumer Goods			2–4x
+Retail				3–5x
+Energy & Utilities		4–6x (Capital-intensive)
+Manufacturing			2–4x

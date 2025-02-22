@@ -1,0 +1,46 @@
+Description:
+- It evaluates whether the company generates enough cash flow to handle its current liabilities without relying on external financing or asset sales.
+
+Formula:
+- Operating Cash Flow to Current Debt Ratio = (Operating Cash Flow / Current Debt)
+​
+Interpretation:
+- OCF To Current Debt Ratio = (150 / 100) = 1.5 or 150%
+- The company generates $1.5 in cash flow (OCF) for every $1 of current debt.
+- The company can cover 150% of its current debt using cash from operations, indicating strong liquidity.
+
+Key Insights:
+- Ratio > 1.0 or 100%: (Healthy Liquidity): The company generates sufficient cash flow to cover its short-term debt obligations.
+- Ratio < 1.0 or 100%: (Liquidity Concerns): The company may face cash flow shortages and could require external funding or asset sales to cover its short-term debt.
+- Higher Ratios (> 2.0 or 200%): (Excellent Financial Health): Suggests strong cash flow generation, providing flexibility for growth investments or debt reduction.
+
+- Liquidity Risk Monitoring: Low ratios suggest cash flow issues and potential liquidity risks, especially during economic downturns.
+- Debt Servicing Ability: High ratios highlight a company’s ability to repay short-term obligations without needing external financing.
+- Growth vs Stability: Companies with higher ratios may use excess cash for investment opportunities or debt reduction.
+- Cash Flow Dependency: For businesses with volatile cash flows, low ratios may highlight reliance on alternative funding sources.
+
+Advantages:
+- Real Cash Measurement: Focuses on actual cash generation rather than accounting profits.
+- Short-Term Solvency Focus: Measures the company’s ability to handle immediate obligations without relying on inventory sales.
+- Debt and Liquidity Planning: Useful for assessing debt repayment strategies and identifying cash flow gaps.
+
+Limitations:
+- Excludes Long-Term Debt: Focuses only on current debt, ignoring long-term obligations that may impact solvency.
+- Cash Flow Volatility: Cash flows may fluctuate seasonally, leading to inconsistent results.
+- Industry Variability: Different industries have varying capital structures, affecting benchmarks and comparisons.
+- Timing Issues: Doesn’t reflect timing mismatches between cash inflows and debt repayments.
+
+Key Takeaway:
+- The Operating Cash Flow to Current Debt Ratio measures whether a company can pay short-term debt using cash generated from operations, offering insight into liquidity strength and solvency risks.
+- Use it alongside Cash Flow Coverage Ratio, Current Ratio, and Quick Ratio for a comprehensive liquidity analysis.
+
+Industry			Benchmark Range
+Technology & Software		1.5–3.0
+Healthcare & Biotechnology	1.0–2.5
+Consumer Discretionary		1.0–1.8
+Energy				0.8–1.5
+Financial Services		0.8–1.3
+Industrial & Manufacturing	1.0–2.0
+Utilities			0.5–1.2
+Real Estate (REITs)		0.3–0.8
+Consumer Staples		1.0–1.6

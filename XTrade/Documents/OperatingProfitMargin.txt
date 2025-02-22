@@ -1,0 +1,87 @@
+Description:
+Operating Income Margin is a profitability metric that measures how much profit a company generates from core business activities after operating costs.
+
+Formula:
+Operating Income Margin = ( Operating Income / Revenue ) × 100
+
+Key Components:
+- A higher operating income margin indicates that a company is more efficient at controlling its operating expenses and is better positioned to generate profits from its core business activities. It indicates strong operational efficiency and pricing power.
+- A lower margin suggests higher operating expenses relative to revenue, which can impact overall profitability. It signals higher costs or pricing pressures, often seen in retail and manufacturing industries.
+
+Industry	Operating Margin
+Advertising	12.26%
+Aerospace/Defense	9.71%
+Air Transport	7.22%
+Apparel	9.59%
+Auto & Truck	5.79%
+Auto Parts	6.16%
+Beverage (Alcoholic)	21.20%
+Beverage (Soft)	19.83%
+Broadcasting	12.55%
+Brokerage & Investment Banking	4.16%
+Building Materials	14.19%
+Business & Consumer Services	12.48%
+Cable TV	20.60%
+Chemical (Basic)	8.30%
+Chemical (Specialty)	13.87%
+Coal & Related Energy	21.69%
+Computer Services	7.80%
+Computers/Peripherals	23.38%
+Construction Supplies	15.55%
+Drugs (Biotechnology)	8.28%
+Drugs (Pharmaceutical)	19.75%
+Education	9.33%
+Electrical Equipment	11.02%
+Electronics (General)	10.81%
+Engineering/Construction	5.02%
+Entertainment	9.12%
+Environmental & Waste Services	14.20%
+Farming/Agriculture	10.40%
+Financial Services	13.50%
+Food Processing	9.90%
+Healthcare Products	12.60%
+Healthcare Support Services	3.60%
+Homebuilding	13.40%
+Hospitals/Healthcare Facilities	10.80%
+Hotel/Gaming	15.70%
+Household Products	15.50%
+Information Services	9.80%
+Insurance (General)	13.10%
+Insurance (Property & Casualty)	6.50%
+Investments & Asset Management	13.30%
+Machinery	13.00%
+Metals & Mining	19.20%
+Oil/Gas (Integrated)	12.30%
+Oil/Gas (Production and Exploration)	35.20%
+Packaging & Container	8.00%
+Paper/Forest Products	8.70%
+Power	14.10%
+Real Estate (Development)	12.40%
+Real Estate (General/Diversified)	14.00%
+Recreation	8.90%
+Restaurant/Dining	14.00%
+Retail (Automotive)	5.30%
+Retail (Building Supply)	10.90%
+Retail (General)	3.80%
+Retail (Grocery and Food)	2.00%
+Semiconductor	18.80%
+Software (Entertainment)	25.40%
+Software (System & Application)	24.20%
+Telecom (Wireless)	15.20%
+Telecom. Equipment	18.40%
+Telecom. Services	19.50%
+Tobacco	36.80%
+Transportation	7.40%
+Utility (General)	18.70%
+Utility (Water)	27.40%
+
+Key Observations:
+- High Operating Margins:
+	Tobacco: 36.8%
+	Software (Entertainment): 25.4%
+	Oil/Gas (Production and Exploration): 35.2%
+- Low Operating Margins:
+	Retail (Grocery and Food): 2.0%
+	Retail (General): 3.8%
+	Engineering/Construction: 5.02%
+

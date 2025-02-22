@@ -1,0 +1,39 @@
+Description:
+- Net Profit Margin is a profitability metric that measures the percentage of revenue remaining as net income after all expenses.
+
+Formula:
+- Net Profit Margin = ( Net Profit / Revenue)
+
+Interpretation:
+- Net Profit Margin = 150 / 1000 = 0.15 or 15%
+- The company generates $0.15 as profit for every $1 of revenue.
+
+Key Insights:
+- High Net Profit Margin (> Industry Average):
+	Reflects strong profitability and cost control.
+	Indicates pricing power or operational efficiency.
+- Low Net Profit Margin (< Industry Average):
+	Suggests high expenses or pricing pressure.
+	May indicate inefficiencies or competitive weaknesses.
+- Negative Net Profit Margin:
+	Indicates losses and potential financial distress.
+
+Limitations:
+- One-time gains or losses, like asset sales or legal settlements can inflate margins, masking poor operational performance.
+- A company with high debt or tax liabilities may show a lower margin, even if its core operations are profitable.
+- Companies with different capital structures are hard to compare using Net Profit Margin alone.
+
+Key Takeaway:
+- Net Profit Margin is a comprehensive profitability metric that evaluates how much of a company’s revenue turns into profit.
+- Combine it with Operating Margin, EBITDA Margin, and ROE for a detailed financial analysis.
+
+Industry			Typical Net Profit Margin (%)
+Technology & Software		15–30%
+Healthcare & Biotechnology	10–20%
+Consumer Discretionary		5–15%
+Energy				5–15%
+Financial Services		10–25%
+Industrial & Manufacturing	5–15%
+Utilities			10–20%
+Real Estate (REITs)		20–40%
+Consumer Staples		10–20%

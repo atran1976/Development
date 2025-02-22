@@ -1,0 +1,31 @@
+Description:
+- Working Capital is a liquidity metric that measures a company's ability to cover short-term obligations using its short-term assets.
+- It reflects whether a company can fund daily operations and meet short-term obligations.
+
+Formula:
+- Working Capital = Current Assets − Current Liabilities
+
+Interpretation:
+- Working Capital = 500,000− 300,000 = 200,000
+- The company has $200,000 in net working capital, meaning it has positive liquidity to cover its short-term obligations.
+
+Key Insights:
+- Positive Working Capital (> 0): Company has more assets than liabilities, meaning it can meet short-term obligations and fund day-to-day operations.
+- Negative Working Capital (< 0): Company has more liabilities than assets, which may signal liquidity issues or reliance on short-term debt to operate.
+- Zero Working Capital (0): Assets exactly match liabilities, indicating neutral liquidity, which may be acceptable in industries with fast inventory turnover.
+
+- Positive working capital is generally good, but too much may suggest inefficient use of resources.
+- Positive working capital allows expansion and investment opportunities without additional debt financing.
+- Negative working capital may reflect cash flow issues, especially in slow-moving industries.
+- Rising working capital may indicate inventory buildup or poor receivables management, requiring further analysis.
+- Highlights the company’s ability to manage day-to-day operations and meet obligations.
+
+Limitations:
+- Ignores Cash Flow Timing: Doesn’t consider timing mismatches in cash inflows and outflows.
+- Overlooks Quality of Assets: High inventory or receivables may not always be liquid, overstating working capital.
+- Industry Variability: Capital-intensive industries may naturally have low working capital due to high fixed costs.
+- Temporary Distortions: Seasonal businesses may have fluctuating working capital, requiring adjustments for trends.
+
+Key Takeaway:
+- Working Capital measures short-term financial health and liquidity.
+- Combine it with metrics like Current Ratio, Quick Ratio, and Working Capital Turnover to assess efficiency and risk.

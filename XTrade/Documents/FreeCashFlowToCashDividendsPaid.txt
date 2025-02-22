@@ -1,0 +1,48 @@
+Description
+- Free Cash Flow (FCF) / Cash Dividends Paid ratio measures a company’s ability to cover its dividend payments using its free cash flow. 
+- It indicates whether the company generates sufficient cash from operations, after capital expenditures, to sustain its dividend payouts.
+
+Formula:
+- FreeCashFlow / CashDividendsPaid
+
+Interpretation:
+- FreeCashFlow / CashDividendsPaid = 300 / 100 = 3.0 
+- The company generates 3 times the cash required to cover its dividend payments from free cash flow.
+
+Key Insights:
+- High Ratio (>2x): (Strong Dividend Coverage): Indicates the company can comfortably pay dividends and retain sufficient cash for other needs, such as debt repayment or reinvestment.
+- Moderate Ratio (1–2x): (Sufficient Coverage): Reflects the ability to cover dividends but may require monitoring, especially during periods of declining cash flow.
+- Low Ratio (<1x): (Weak Dividend Coverage): Suggests that the company’s free cash flow is insufficient to cover dividends, potentially leading to borrowing, reduced dividends, or financial strain.
+
+- Dividend Sustainability: Evaluates whether the company’s free cash flow is sufficient to sustain its dividend payments.
+- Financial Health Indicator: Highlights the company’s financial flexibility in maintaining or increasing dividends.
+- Dividend Sustainability:
+	A higher ratio indicates strong cash flow coverage, ensuring dividend stability even during downturns.
+	A low ratio or consistently declining ratio may signal potential challenges in maintaining dividends.
+- Reinvestment vs. Payouts: Companies with higher ratios have more flexibility to reinvest in growth, reduce debt, or increase dividends.
+- Industry Dependence:
+	Dividend-heavy sectors like utilities typically operate with lower ratios due to consistent payouts.
+	Growth sectors like technology often have higher ratios, reflecting stronger cash flow generation and lower dividend obligations.
+
+Advantages:
+- Cash Flow Focus: Emphasizes cash-based sustainability of dividends rather than earnings, which may include non-cash items.
+- Liquidity Indicator: Highlights whether the company has sufficient liquidity to support dividends without straining operations.
+- Dividend Policy Assessment: Provides insights into whether the company’s dividend policy aligns with its cash flow generation.
+
+Limitations:
+- Short-Term Variability: Free cash flow can fluctuate due to temporary changes in working capital or one-time expenses, potentially distorting the ratio.
+- Industry Variations: Ratios vary across industries, making cross-sector comparisons less meaningful.
+- Excludes Long-Term Obligations: Focuses solely on dividends without considering other cash requirements like debt repayments.
+
+Key Takeaway:
+- Free Cash Flow / Cash Dividends Paid is a critical metric for assessing dividend sustainability and the company’s financial flexibility.
+- A higher ratio (>2x) reflects strong coverage and financial health, while a lower ratio (<1x) signals potential challenges in maintaining dividends.
+- Combine with payout, leverage, and profitability ratios for a comprehensive analysis of the company’s dividend policy and financial health.
+
+Industry			Typical FCF-to-Dividends Ratio
+Technology & Software		3–5x
+Healthcare			2–4x
+Consumer Goods			1.5–3x
+Retail				1–3x
+Energy & Utilities		1–2x (Dividend-heavy)
+Manufacturing			2–4x

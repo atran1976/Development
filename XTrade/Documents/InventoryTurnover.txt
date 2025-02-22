@@ -1,0 +1,52 @@
+Description:
+- Days Inventory Outstanding (DIO), which measures the average number of days a company takes to sell its inventory. 
+- It evaluates how efficiently inventory is managed, highlighting the liquidity of inventory and operational efficiency.
+
+Formula:
+- DIO = (((Beginning Inventory + Ending Inventory) / 2 ) / Cost of Revenue ) * 365
+
+Interpretation:
+- DIO = (210 / 1000) * 365 = 76.65 days
+- It takes the company approximately 77 days to sell its inventory.
+
+Key Insights:
+- Low DIO (< 30 days): (High Efficiency)
+	Inventory is sold quickly, reflecting strong demand or just-in-time inventory practices.	
+	Suitable for retail and fast-moving consumer goods (FMCG) sectors.
+- Moderate DIO (30–90 days): (Balanced Efficiency)
+	Reflects average inventory turnover, common for manufacturing and capital-intensive industries.
+- High DIO (> 90 days): (Slow Turnover or Overstocking)
+	Inventory takes longer to sell, suggesting low demand, poor inventory management, or overstocking risks.
+	Suitable for industries with seasonal products or long production cycles like automobiles.
+
+- Inventory Management Efficiency: High DIO indicates slow-moving inventory, risking obsolescence or carrying costs. (Optimize inventory levels.)
+- Liquidity Monitoring: Low DIO improves liquidity, enabling faster cash cycles and reducing working capital needs. (Analyze CCC.)
+- Growth vs Stability Analysis: High DIO in growth phases may signal inventory buildup for future demand, while low DIO in mature businesses reflects tight inventory control.
+- Seasonal Patterns Impact: DIO may rise during off-peak seasons and fall during peak periods—analyze trends to normalize data.
+
+Advantages:
+- Operational Efficiency Indicator: Tracks how effectively inventory is converted to sales, supporting supply chain optimization.
+- Liquidity and Cash Flow Analysis: Evaluates whether inventory ties up cash, impacting working capital cycles.
+- Benchmark Comparisons: Suitable for comparing inventory practices across peer groups and industries.
+
+Limitations:
+- Industry Sensitivity: DIO varies significantly by industry—benchmark comparisons within peer groups are essential. (Avoid cross-sector analysis.)
+- Seasonal Variations: Inventory patterns may fluctuate, requiring quarterly adjustments for accurate analysis. (Normalize data.)
+- Profitability Ignored: Focuses only on inventory efficiency, not whether it contributes to profitability. (Pair with gross profit margin.)
+- Excludes Future Trends: Doesn’t account for future sales projections—may misrepresent growth-focused inventory buildup. (Analyze sales forecasts.)
+
+Key Takeaway:
+- Days Inventory Outstanding (DIO) measures how quickly inventory is sold, reflecting operational efficiency and cash flow management.
+- Combine it with DSO, DPO, and the Cash Conversion Cycle (CCC) for a complete working capital analysis.
+
+Industry		Benchmark DIO (days)
+Retail (General Goods)	30–60 days
+Technology & Software	20–40 days
+Healthcare		45–70 days
+Manufacturing		60–90 days
+Utilities		50–100 days (asset-heavy)
+Financial Services	5–20 days (low inventory)
+Real Estate (REITs)	90–150 days (long cycles)
+Consumer Staples	30–50 days
+
+

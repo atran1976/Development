@@ -1,0 +1,45 @@
+Description:
+- Market Cap / Net Income ratio measures how much investors are willing to pay for each dollar of a company’s net income. 
+
+Formula:
+- Market Cap / Net Income
+
+Interpretation:
+- Market Cap / Net Income = 1000 / 200 = 5.0
+- Investors are willing to pay $5 for every $1 of the company’s earnings.
+
+Key Insights:
+- High Ratio (>20): (Growth-Oriented Pricing)
+	Indicates that investors expect significant future earnings growth.
+	Common in industries like technology or healthcare with high growth potential.
+- Moderate Ratio (10–20): (Fair Valuation)
+	Suggests that the company is fairly valued based on its earnings.
+- Low Ratio (<10): (Value-Oriented Pricing)
+	May indicate undervaluation or a lack of investor confidence in the company’s future growth
+
+- Indicates the valuation premium investors are assigning to a company’s earnings.
+- Helps evaluate whether a company is overvalued, undervalued, or fairly priced relative to its peers or the market.
+
+Advantages:
+- Widely Used: One of the most popular metrics for comparing valuation across companies and industries.
+- Easy to Calculate: Requires readily available data from financial statements and the stock market.
+- Forward-Looking: Captures market expectations about future earnings growth.
+
+Limitations:
+- Ignores Growth Drivers: A low ratio doesn’t always indicate undervaluation; it could reflect low growth potential or high risk.
+- Industry Comparisons: Ratios vary significantly across industries, making cross-sector comparisons less meaningful.
+- Earnings Quality: The ratio doesn’t account for non-recurring items or the quality of earnings (e.g., cash-based vs. accrual-based).
+- Market Volatility: Market capitalization is influenced by stock price fluctuations, which may distort the ratio during volatile periods.
+
+Key Takeaway:
+- Market Cap / Net Income (P/E ratio) is a critical valuation metric for assessing how much investors are willing to pay for a company’s earnings.
+- A higher ratio (>20x) signals high growth expectations, while a lower ratio (<10x) may indicate undervaluation or financial challenges.
+- Combine with other valuation and profitability metrics for a complete analysis of a company’s financial health and market positioning.
+
+Industry			Typical P/E Ratio (Market Cap / Net Income)
+Technology & Software		20–50x
+Healthcare			15–30x
+Consumer Goods			10–20x
+Retail				10–15x
+Energy & Utilities		5–15x
+Manufacturing			10–20x

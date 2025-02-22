@@ -1,0 +1,47 @@
+Description:
+- Total Debt / Capital Expenditure ratio measures the extent to which a company's capital expenditures are supported by its total debt. 
+- It reflects a company’s reliance on debt financing for investing in its infrastructure, assets, and operational capacity.
+
+Formula:
+- Total Debt / Capital Expenditure
+
+Interpretation:
+- Total Debt / Capital Expenditure = 600 / 150 = 4.0
+- The company’s total debt is 4 times its capital expenditures.
+- The company has $4 of Total Debt for every $1 of CapEx.
+
+Key Insights:
+- Low Ratio (<2x): (Low Debt Dependence): Indicates the company relies less on debt for CapEx, suggesting a strong internal funding capability.
+- Moderate Ratio (2–5x): (Balanced Financing): Reflects a reasonable mix of debt and other sources of funding for capital investments.
+- High Ratio (>5x): (High Debt Reliance): Suggests heavy dependence on debt financing for CapEx, increasing financial risk.
+
+- Debt Financing Assessment: Indicates how heavily a company relies on debt to fund its CapEx investments.
+- Leverage Analysis: Reflects the financial burden associated with growth and operational expansion.
+
+- Debt Funding for Growth: A higher ratio indicates greater reliance on debt for funding growth and asset acquisition, which may pose risks during economic downturns.
+- Industry Dependence: 
+	Capital-intensive industries (e.g., energy, manufacturing) naturally have higher ratios due to substantial CapEx requirements.
+	Asset-light industries (e.g., software) tend to have lower ratios, reflecting minimal CapEx needs.
+- Leverage and Risk: Companies with consistently high ratios may face higher interest obligations and liquidity pressures, particularly if cash flows decline.
+
+Advantages:
+- Leverage Analysis: Highlights the company’s dependence on debt for operational growth and expansion.
+- Capital Allocation Insight: Reflects the balance between internal funding and external debt for CapEx investments.
+- Industry Comparisons: Useful for benchmarking within industries to assess funding strategies.
+
+Limitations:
+- Doesn’t Reflect Efficiency: A high ratio doesn’t indicate whether the CapEx investments are efficient or profitable. (Combine with ROA or ROIC for a complete picture.)
+- Excludes Other Funding Sources: Ignores equity financing, retained earnings, or other sources of CapEx funding.
+- Short-Term Volatility: CapEx and debt levels can vary year-to-year due to project cycles or financing decisions.
+
+Key Takeaway:
+- Total Debt / Capital Expenditure measures the reliance on debt to fund capital investments, with lower ratios (<2x) indicating a more conservative financing strategy.
+- A higher ratio (>5x) may signal significant debt dependence, which could pose financial risks during economic downturns or periods of declining cash flow.
+- Combine this ratio with other leverage, profitability, and efficiency metrics for a comprehensive financial analysis.
+
+Industry			Typical Debt-to-CapEx Ratio (x)
+Technology & Software		1–3x
+Healthcare			2–4x
+Retail				2–5x
+Energy & Utilities		4–8x (Capital-intensive)
+Manufacturing			3–6x
