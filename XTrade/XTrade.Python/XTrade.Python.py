@@ -17,7 +17,7 @@ import re
 
 
 workspace = "C:\\Development\\XTrade\\Data\\Python"
-chunk_size = 1000
+chunk_size = 500
 time_out = 0
 
 inputs = [
@@ -3216,9 +3216,10 @@ def GetSummary(inputs):
     WriteToLocal("".join(content),"summary_details.txt")
 
 
-GetProfiles(inputs)
-GetRealTimeQuotes(inputs)
+
+#GetProfiles(inputs)
 GetSummary(inputs)
+GetRealTimeQuotes(inputs) 
 GetValuationMeasures(inputs)
 GetFinancialStatements(inputs,'A') 
 GetFinancialStatements(inputs,'Q') 
